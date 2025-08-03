@@ -55,7 +55,7 @@
       "circle-of-competence",
       "probabilistic-thinking"
     ],
-    "icon": "🧠"
+    "icon": "🗺️"
   },
   {
     "id": "circle-of-competence",
@@ -84,7 +84,7 @@
       "specialization",
       "first-principles-thinking"
     ],
-    "icon": "🧠"
+    "icon": "⭕"
   },
   {
     "id": "first-principles-thinking",
@@ -113,7 +113,7 @@
       "the-map-is-not-the-territory",
       "thought-experiment"
     ],
-    "icon": "🧠"
+    "icon": "🧱"
   },
   {
     "id": "thought-experiment",
@@ -142,7 +142,7 @@
       "inversion",
       "second-order-thinking"
     ],
-    "icon": "🧠"
+    "icon": "💭"
   },
   {
     "id": "second-order-thinking",
@@ -170,7 +170,7 @@
       "inversion",
       "systems-thinking"
     ],
-    "icon": "🧠"
+    "icon": "🔄"
   },
   {
     "id": "probabilistic-thinking",
@@ -199,7 +199,7 @@
       "randomness",
       "regression-to-the-mean"
     ],
-    "icon": "🧠"
+    "icon": "🎲"
   },
   {
     "id": "occam’s-razor",
@@ -284,7 +284,7 @@
       "first-principles-thinking",
       "probabilistic-thinking"
     ],
-    "icon": "🧠"
+    "icon": "❌"
   },
   {
     "id": "necessity-and-sufficiency",
@@ -312,7 +312,7 @@
       "first-principles-thinking",
       "causation-vs-correlation"
     ],
-    "icon": "🧠"
+    "icon": "🔑"
   },
   {
     "id": "causation-vs.-correlation",
@@ -341,7 +341,7 @@
       "probabilistic-thinking",
       "first-principles-thinking"
     ],
-    "icon": "🧠"
+    "icon": "➡️"
   },
   {
     "id": "scarcity",
@@ -370,7 +370,7 @@
       "supply-and-demand",
       "trade-offs"
     ],
-    "icon": "🧠"
+    "icon": "⛏️"
   },
   {
     "id": "supply-and-demand",
@@ -398,7 +398,7 @@
       "scarcity",
       "game-theory"
     ],
-    "icon": "🧠"
+    "icon": "📦"
   },
   {
     "id": "game-theory",
@@ -427,7 +427,7 @@
       "nash-equilibrium",
       "prisoner's-dilemma"
     ],
-    "icon": "🧠"
+    "icon": "🎯"
   },
   {
     "id": "optimization",
@@ -456,7 +456,7 @@
       "trade-offs",
       "efficiency"
     ],
-    "icon": "🧠"
+    "icon": "⚙️"
   },
   {
     "id": "trade-offs",
@@ -486,7 +486,7 @@
       "scarcity",
       "optimization"
     ],
-    "icon": "🧠"
+    "icon": "⚖️"
   },
   {
     "id": "specialization",
@@ -514,7 +514,7 @@
     "relatedModels": [
       "trade-offs"
     ],
-    "icon": "🧠"
+    "icon": "🎯"
   },
   {
     "id": "interdependence",
@@ -543,7 +543,7 @@
       "specialization",
       "network-effects"
     ],
-    "icon": "🧠"
+    "icon": "🔗"
   },
   {
     "id": "efficiency",
@@ -573,7 +573,7 @@
       "trade-offs",
       "margin-of-safety"
     ],
-    "icon": "🧠"
+    "icon": "⚡"
   },
   {
     "id": "debt",
@@ -601,7 +601,7 @@
     "relatedModels": [
       "opportunity-cost"
     ],
-    "icon": "🧠"
+    "icon": "💳"
   },
   {
     "id": "monopoly-and-competition",
@@ -630,7 +630,7 @@
       "creative-destruction",
       "network-effects"
     ],
-    "icon": "🧠"
+    "icon": "👑"
   },
   {
     "id": "creative-destruction",
@@ -658,7 +658,7 @@
     "relatedModels": [
       "monopoly-and-competition"
     ],
-    "icon": "🧠"
+    "icon": "🔥"
   },
   {
     "id": "gresham’s-law",
@@ -713,7 +713,7 @@
     "relatedModels": [
       "interdependence"
     ],
-    "icon": "🧠"
+    "icon": "🫧"
   },
   {
     "id": "audience",
@@ -741,7 +741,7 @@
       "framing",
       "genre"
     ],
-    "icon": "🧠"
+    "icon": "👥"
   },
   {
     "id": "genre",
@@ -769,7 +769,7 @@
       "audience",
       "framing"
     ],
-    "icon": "🧠"
+    "icon": "🎭"
   },
   {
     "id": "contrast",
@@ -797,7 +797,7 @@
       "framing",
       "rhythm"
     ],
-    "icon": "🧠"
+    "icon": "⚫"
   },
   {
     "id": "framing",
@@ -825,7 +825,7 @@
       "audience",
       "context"
     ],
-    "icon": "🧠"
+    "icon": "🖼️"
   },
   {
     "id": "rhythm",
@@ -853,7 +853,7 @@
       "audience",
       "context"
     ],
-    "icon": "🧠"
+    "icon": "🥁"
   },
   {
     "id": "melody",
@@ -880,7 +880,7 @@
     "relatedModels": [
       "rhythm"
     ],
-    "icon": "🧠"
+    "icon": "🎵"
   },
   {
     "id": "representation",
@@ -907,7 +907,7 @@
     "relatedModels": [
       "framing"
     ],
-    "icon": "🧠"
+    "icon": "🎨"
   },
   {
     "id": "plot",
@@ -934,7 +934,7 @@
     "relatedModels": [
       "character"
     ],
-    "icon": "🧠"
+    "icon": "📖"
   },
   {
     "id": "character",
@@ -961,7 +961,7 @@
     "relatedModels": [
       "plot"
     ],
-    "icon": "🧠"
+    "icon": "🧑"
   },
   {
     "id": "setting",
@@ -988,7 +988,7 @@
     "relatedModels": [
       "representation"
     ],
-    "icon": "🧠"
+    "icon": "🌍"
   },
   {
     "id": "feedback-loops",
@@ -1016,7 +1016,7 @@
       "homeostasis",
       "second-order-thinking"
     ],
-    "icon": "🧠"
+    "icon": "🔄"
   },
   {
     "id": "equilibrium",
@@ -1044,7 +1044,7 @@
       "feedback-loops",
       "homeostasis"
     ],
-    "icon": "🧠"
+    "icon": "⚖️"
   },
   {
     "id": "bottlenecks",
@@ -1071,7 +1071,7 @@
     "relatedModels": [
       "optimizations"
     ],
-    "icon": "🧠"
+    "icon": "🧵"
   },
   {
     "id": "scale",
@@ -1098,7 +1098,7 @@
     "relatedModels": [
       "economies-of-scale"
     ],
-    "icon": "🧠"
+    "icon": "📏"
   },
   {
     "id": "margin-of-safety",
@@ -1125,7 +1125,7 @@
     "relatedModels": [
       "churn"
     ],
-    "icon": "🧠"
+    "icon": "🛡️"
   },
   {
     "id": "churn",
@@ -1152,7 +1152,7 @@
     "relatedModels": [
       "margin-of-safety"
     ],
-    "icon": "🧠"
+    "icon": "🔄"
   },
   {
     "id": "algorithms",
@@ -1179,7 +1179,7 @@
     "relatedModels": [
       "complex-adaptive-systems"
     ],
-    "icon": "🧠"
+    "icon": "🤖"
   },
   {
     "id": "complex-adaptive-systems",
@@ -1206,7 +1206,7 @@
     "relatedModels": [
       "emergence"
     ],
-    "icon": "🧠"
+    "icon": "🕸️"
   },
   {
     "id": "critical-mass",
@@ -1233,7 +1233,7 @@
     "relatedModels": [
       "network-effects"
     ],
-    "icon": "🧠"
+    "icon": "💥"
   },
   {
     "id": "emergence",
@@ -1260,7 +1260,7 @@
     "relatedModels": [
       "complex-adaptive-systems"
     ],
-    "icon": "🧠"
+    "icon": "🌱"
   },
   {
     "id": "chaos-dynamics",
@@ -1287,7 +1287,7 @@
     "relatedModels": [
       "butterfly-effect"
     ],
-    "icon": "🧠"
+    "icon": "🌪️"
   },
   {
     "id": "irreducibility",
@@ -1314,7 +1314,7 @@
     "relatedModels": [
       "emergence"
     ],
-    "icon": "🧠"
+    "icon": "🧩"
   },
   {
     "id": "the-law-of-diminishing-returns",
@@ -1341,7 +1341,7 @@
     "relatedModels": [
       "pareto-principle"
     ],
-    "icon": "🧠"
+    "icon": "📉"
   },
   {
     "id": "distributions",
@@ -1368,7 +1368,7 @@
     "relatedModels": [
       "network-effects"
     ],
-    "icon": "🧠"
+    "icon": "📊"
   },
   {
     "id": "compounding",
@@ -1395,7 +1395,7 @@
     "relatedModels": [
       "network-effects"
     ],
-    "icon": "🧠"
+    "icon": "📈"
   },
   {
     "id": "network-effects",
@@ -1423,7 +1423,7 @@
       "sampling",
       "equivalence"
     ],
-    "icon": "🧠"
+    "icon": "🌐"
   },
   {
     "id": "sampling",
@@ -1451,7 +1451,7 @@
       "network-effects",
       "pareto-principle"
     ],
-    "icon": "🧠"
+    "icon": "🧪"
   },
   {
     "id": "randomness",
@@ -1478,7 +1478,7 @@
     "relatedModels": [
       "regression-to-the-mean"
     ],
-    "icon": "🧠"
+    "icon": "🎲"
   },
   {
     "id": "pareto-principle",
@@ -1505,7 +1505,7 @@
     "relatedModels": [
       "leverage"
     ],
-    "icon": "🧠"
+    "icon": "📊"
   },
   {
     "id": "regression-to-the-mean",
@@ -1532,7 +1532,7 @@
     "relatedModels": [
       "multiplying-by-zero"
     ],
-    "icon": "🧠"
+    "icon": "↩️"
   },
   {
     "id": "multiplying-by-zero",
@@ -1560,7 +1560,7 @@
       "network-effects",
       "pareto-principle"
     ],
-    "icon": "🧠"
+    "icon": "❌"
   },
   {
     "id": "equivalence",
@@ -1587,7 +1587,7 @@
     "relatedModels": [
       "order-of-magnitude"
     ],
-    "icon": "🧠"
+    "icon": "⚖️"
   },
   {
     "id": "order-of-magnitude",
@@ -1615,7 +1615,7 @@
       "equivalence",
       "sampling"
     ],
-    "icon": "🧠"
+    "icon": "🔢"
   },
   {
     "id": "surface-area",
@@ -1642,7 +1642,7 @@
     "relatedModels": [
       "chaos-dynamics"
     ],
-    "icon": "🧠"
+    "icon": "🌌"
   },
   {
     "id": "global-and-local-maxima",
@@ -1670,7 +1670,7 @@
       "surface-area",
       "inversion"
     ],
-    "icon": "🧠"
+    "icon": "📈"
   },
   {
     "id": "relativity",
@@ -1695,7 +1695,7 @@
     ],
     "quote": "We are all prisoners of our own experience. - Galileo",
     "relatedModels": [],
-    "icon": "🧠"
+    "icon": "🔭"
   },
   {
     "id": "reciprocity",
@@ -1720,7 +1720,7 @@
     ],
     "quote": "Go positive and go first. - Peter D. Kaufman",
     "relatedModels": [],
-    "icon": "🧠"
+    "icon": "🤝"
   },
   {
     "id": "thermodynamics",
@@ -1747,7 +1747,7 @@
     "relatedModels": [
       "inertia"
     ],
-    "icon": "🧠"
+    "icon": "🔥"
   },
   {
     "id": "inertia",
@@ -1774,7 +1774,7 @@
     "relatedModels": [
       "distributions"
     ],
-    "icon": "🧠"
+    "icon": "🏋️"
   },
   {
     "id": "friction-and-viscosity",
@@ -1801,7 +1801,7 @@
     "relatedModels": [
       "inertia"
     ],
-    "icon": "🧠"
+    "icon": "🛑"
   },
   {
     "id": "velocity",
@@ -1829,7 +1829,7 @@
       "surface-area",
       "inversion"
     ],
-    "icon": "🧠"
+    "icon": "🚀"
   },
   {
     "id": "leverage",
@@ -1858,7 +1858,7 @@
       "efficiency",
       "scale"
     ],
-    "icon": "🧠"
+    "icon": "🔧"
   },
   {
     "id": "activation-energy",
@@ -1885,7 +1885,7 @@
     "relatedModels": [
       "catalysts"
     ],
-    "icon": "🧠"
+    "icon": "⚡"
   },
   {
     "id": "catalysts",
@@ -1913,7 +1913,7 @@
       "velocity",
       "leverage"
     ],
-    "icon": "🧠"
+    "icon": "🧪"
   },
   {
     "id": "alloying",
@@ -1940,7 +1940,7 @@
     "relatedModels": [
       "catalysts"
     ],
-    "icon": "🧠"
+    "icon": "🧱"
   },
   {
     "id": "natural-selection-and-extinction",
@@ -1967,7 +1967,7 @@
     "relatedModels": [
       "adaptation-rate-and-the-red-queen-effect"
     ],
-    "icon": "🧠"
+    "icon": "🦅"
   },
   {
     "id": "adaptation-rate-and-the-red-queen-effect",
@@ -1994,7 +1994,7 @@
     "relatedModels": [
       "catalysts"
     ],
-    "icon": "🧠"
+    "icon": "🏃"
   },
   {
     "id": "competition",
@@ -2022,7 +2022,7 @@
       "natural-selection-and-extinction",
       "game-theory"
     ],
-    "icon": "🧠"
+    "icon": "🏆"
   },
   {
     "id": "ecosystem",
@@ -2049,7 +2049,7 @@
     "relatedModels": [
       "self-preservation"
     ],
-    "icon": "🧠"
+    "icon": "🌳"
   },
   {
     "id": "niches",
@@ -2076,7 +2076,7 @@
     "relatedModels": [
       "replication"
     ],
-    "icon": "🧠"
+    "icon": "🕳️"
   },
   {
     "id": "self-preservation",
@@ -2103,7 +2103,7 @@
     "relatedModels": [
       "cooperation"
     ],
-    "icon": "🧠"
+    "icon": "🛡️"
   },
   {
     "id": "replication",
@@ -2131,7 +2131,7 @@
       "relativity",
       "thermodynamics"
     ],
-    "icon": "🧠"
+    "icon": "🔁"
   },
   {
     "id": "cooperation",
@@ -2158,7 +2158,7 @@
     "relatedModels": [
       "dunbar's-number"
     ],
-    "icon": "🧠"
+    "icon": "🤝"
   },
   {
     "id": "dunbar's-number",
@@ -2185,7 +2185,7 @@
     "relatedModels": [
       "cooperation"
     ],
-    "icon": "🧠"
+    "icon": "👥"
   },
   {
     "id": "hierarchical-organization",
@@ -2213,7 +2213,7 @@
       "game-theory",
       "feedback-loops"
     ],
-    "icon": "🧠"
+    "icon": "🏛️"
   },
   {
     "id": "incentives",
@@ -2241,7 +2241,7 @@
       "game-theory",
       "feedback-loops"
     ],
-    "icon": "🧠"
+    "icon": "🎁"
   },
   {
     "id": "tendency-to-minimize-energy-output",
@@ -2269,7 +2269,7 @@
       "efficiency",
       "optimization"
     ],
-    "icon": "🧠"
+    "icon": "⚡"
   },
   {
     "id": "inversion",
@@ -2298,7 +2298,7 @@
       "second-order-thinking",
       "first-principles-thinking"
     ],
-    "icon": "🧠"
+    "icon": "🔃"
   },
   {
     "id": "nash-equilibrium",
@@ -2326,7 +2326,7 @@
       "game-theory",
       "prisoner's-dilemma"
     ],
-    "icon": "🧠"
+    "icon": "⚖️"
   },
   {
     "id": "prisoner's-dilemma",
@@ -2354,7 +2354,7 @@
       "game-theory",
       "nash-equilibrium"
     ],
-    "icon": "🧠"
+    "icon": "🚪"
   },
   {
     "id": "opportunity-cost",
@@ -2381,7 +2381,7 @@
     "relatedModels": [
       "the-map-is-not-the-territory"
     ],
-    "icon": "🧠"
+    "icon": "💸"
   },
   {
     "id": "homeostasis",
@@ -2408,7 +2408,7 @@
     "relatedModels": [
       "inertia"
     ],
-    "icon": "🧠"
+    "icon": "⚖️"
   },
   {
     "id": "economies-of-scale",
@@ -2433,7 +2433,7 @@
     ],
     "quote": "Scale creates competitive advantage through cost reduction and operational efficiency. - Business Principle",
     "relatedModels": [],
-    "icon": "🧠"
+    "icon": "🏭"
   },
   {
     "id": "butterfly-effect",
@@ -2461,6 +2461,6 @@
       "second-order-thinking",
       "probabilistic-thinking"
     ],
-    "icon": "🧠"
+    "icon": "🦋"
   }
 ]

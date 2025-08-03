@@ -21,120 +21,40 @@ export default function MatchPage() {
   const [challenge, setChallenge] = useState("")
   const [matches, setMatches] = useState<MatchResult[]>([])
   const [isLoading, setIsLoading] = useState(false)
-  const [matchingMethod, setMatchingMethod] = useState<'llm' | 'keyword'>('llm')
+  const [matchingMethod, setMatchingMethod] = useState<'llm' | 'fallback'>('llm')
+  const [matchingProvider, setMatchingProvider] = useState('')
+  const [keyUsed, setKeyUsed] = useState<number | null>(null)
   const [error, setError] = useState<string | null>(null)
 
-  const findMatchesWithLLM = async (): Promise<MatchResult[]> => {
-    const response = await fetch('/api/match-models', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ challenge }),
-    });
-
-    if (!response.ok) {
-      throw new Error(`LLM matching failed: ${response.statusText}`);
+  // Helper functions for provider display
+  const getProviderBadgeColor = (provider: string) => {
+    switch (provider) {
+      case 'groq': return 'bg-purple-600';
+      case 'openrouter': return 'bg-blue-600';
+      case 'fuzzy': return 'bg-green-600';
+      default: return 'bg-gray-600';
     }
-
-    const data = await response.json();
-    return data.matches;
   }
 
-  const findMatchesWithKeywords = (): MatchResult[] => {
-    const challengeLower = challenge.toLowerCase()
-    const matchResults: MatchResult[] = []
+  const getProviderIcon = (provider: string) => {
+    switch (provider) {
+      case 'groq':
+      case 'openrouter': 
+        return <Brain className="mr-1 h-3 w-3" />;
+      case 'fuzzy': 
+        return <Zap className="mr-1 h-3 w-3" />;
+      default: 
+        return null;
+    }
+  }
 
-    mentalModels.forEach((model) => {
-      let score = 0
-      let relevance = ""
-
-      // Your existing keyword matching logic
-      if (
-        challengeLower.includes("decision") ||
-        challengeLower.includes("choose") ||
-        challengeLower.includes("decide")
-      ) {
-        if (model.useCases.includes("Decision-Making")) {
-          score += 3
-          relevance = "Perfect for decision-making challenges"
-        }
-      }
-
-      if (
-        challengeLower.includes("stuck") ||
-        challengeLower.includes("comfort zone") ||
-        challengeLower.includes("fear")
-      ) {
-        if (model.id === "inversion") {
-          score += 4
-          relevance = "Think about what's keeping you stuck, and avoid it"
-        }
-        if (model.id === "second-order-thinking") {
-          score += 3
-          relevance = "Visualize the long-term cost of inaction"
-        }
-      }
-
-      if (
-        challengeLower.includes("problem") ||
-        challengeLower.includes("solve") ||
-        challengeLower.includes("complex")
-      ) {
-        if (model.useCases.includes("Problem Solving")) {
-          score += 3
-          relevance = "Excellent for breaking down complex problems"
-        }
-      }
-
-      if (
-        challengeLower.includes("business") ||
-        challengeLower.includes("strategy") ||
-        challengeLower.includes("company")
-      ) {
-        if (model.useCases.includes("Business Strategy")) {
-          score += 3
-          relevance = "Essential for business strategy and planning"
-        }
-      }
-
-      if (
-        challengeLower.includes("invest") ||
-        challengeLower.includes("money") ||
-        challengeLower.includes("financial")
-      ) {
-        if (model.useCases.includes("Investing")) {
-          score += 4
-          relevance = "Critical for investment decisions"
-        }
-      }
-
-      if (challengeLower.includes("career") || challengeLower.includes("job") || challengeLower.includes("work")) {
-        if (model.useCases.includes("Career Navigation")) {
-          score += 3
-          relevance = "Valuable for career planning and decisions"
-        }
-      }
-
-      if (challengeLower.includes("learn") || challengeLower.includes("study") || challengeLower.includes("skill")) {
-        if (model.useCases.includes("Learning")) {
-          score += 3
-          relevance = "Helps optimize learning and skill development"
-        }
-      }
-
-      // Add some randomness for variety
-      if (score === 0) {
-        score = Math.random() * 2
-        relevance = "May provide useful perspective on your challenge"
-      }
-
-      if (score > 0) {
-        matchResults.push({ model, relevance, score, isLLMMatch: false })
-      }
-    })
-
-    return matchResults.sort((a, b) => b.score - a.score).slice(0, 6)
+  const getProviderName = (provider: string) => {
+    switch (provider) {
+      case 'groq': return 'Groq';
+      case 'openrouter': return 'OpenRouter';
+      case 'fuzzy': return 'Smart Search';
+      default: return 'Unknown';
+    }
   }
 
   const findMatches = async () => {
@@ -144,29 +64,27 @@ export default function MatchPage() {
     setError(null)
 
     try {
-      let matchResults: MatchResult[] = []
+      const response = await fetch('/api/match-models', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ challenge }),
+      });
 
-      // Try LLM matching first
-      try {
-        matchResults = await findMatchesWithLLM()
-        setMatchingMethod('llm')
-      } catch (llmError) {
-        console.warn('LLM matching failed, falling back to keyword matching:', llmError)
-        setError('AI matching unavailable, using keyword matching')
-        
-        // Simulate delay for consistency
-        await new Promise((resolve) => setTimeout(resolve, 1000))
-        
-        matchResults = findMatchesWithKeywords()
-        setMatchingMethod('keyword')
+      if (!response.ok) {
+        throw new Error(`Request failed: ${response.statusText}`);
       }
 
-      setMatches(matchResults)
+      const data = await response.json();
+      setMatches(data.matches || []);
+      setMatchingProvider(data.provider || 'unknown');
+      setKeyUsed(data.keyUsed || null);
+      setMatchingMethod(data.method === 'llm' ? 'llm' : 'fallback');
     } catch (error) {
-      console.error('Matching failed:', error)
-      setError('Matching failed. Please try again.')
+      console.error('Matching failed:', error);
+      setError('Matching failed. Please try again.');
+      setMatches([]);
     } finally {
-      setIsLoading(false)
+      setIsLoading(false);
     }
   }
 
@@ -229,18 +147,21 @@ export default function MatchPage() {
                 <ArrowRight className="mr-2 h-6 w-6 text-green-400" />
                 Recommended Mental Models
               </h2>
-              <Badge 
-                className={matchingMethod === 'llm' ? 'bg-purple-600' : 'bg-gray-600'}
-              >
-                {matchingMethod === 'llm' ? (
-                  <>
-                    <Brain className="mr-1 h-3 w-3" />
-                    AI Powered
-                  </>
-                ) : (
-                  'Keyword Based'
+              <div className="flex items-center gap-2">
+                <Badge className={getProviderBadgeColor(matchingProvider)}>
+                  {getProviderIcon(matchingProvider)}
+                  {getProviderName(matchingProvider)}
+                  {keyUsed && (
+                    <span className="ml-1 text-xs opacity-75">#{keyUsed}</span>
+                  )}
+                </Badge>
+                {matchingMethod === 'fallback' && (
+                  <Badge variant="outline" className="border-yellow-600 text-yellow-400">
+                    <AlertTriangle className="mr-1 h-3 w-3" />
+                    Fallback Mode
+                  </Badge>
                 )}
-              </Badge>
+              </div>
             </div>
 
             <div className="space-y-6">
@@ -269,8 +190,6 @@ export default function MatchPage() {
                         <p className="text-purple-100 italic">"{match.keyQuestion}"</p>
                       </div>
                     )}
-
-                    {/* <p className="text-gray-300 mb-4">{match.model.summary}</p> */}
 
                     <div className="flex flex-wrap gap-2 mb-4">
                       {match.model.useCases.map((useCase) => (
