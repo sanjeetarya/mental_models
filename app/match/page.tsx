@@ -9,6 +9,36 @@ import { mentalModels, type MentalModel } from "@/lib/mental-models"
 import { Zap, Lightbulb, ArrowRight, Brain, AlertTriangle } from "lucide-react"
 import Link from "next/link"
 
+// Add device data collection functions
+const collectDeviceData = () => {
+  return {
+    userAgent: navigator.userAgent,
+    deviceType: getDeviceType(),
+    screenWidth: window.screen.width,
+    screenHeight: window.screen.height,
+    timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+    language: navigator.language,
+    referrer: document.referrer,
+    sessionId: getOrCreateSessionId()
+  };
+};
+
+const getDeviceType = () => {
+  const userAgent = navigator.userAgent.toLowerCase();
+  if (/mobile|android|iphone/.test(userAgent)) return 'mobile';
+  if (/tablet|ipad/.test(userAgent)) return 'tablet';
+  return 'desktop';
+};
+
+const getOrCreateSessionId = () => {
+  let sessionId = sessionStorage.getItem('session_id');
+  if (!sessionId) {
+    sessionId = 'sess_' + Date.now() + '_' + Math.random().toString(36).substring(2);
+    sessionStorage.setItem('session_id', sessionId);
+  }
+  return sessionId;
+};
+
 interface MatchResult {
   model: MentalModel
   relevance: string
@@ -64,10 +94,19 @@ export default function MatchPage() {
     setError(null)
 
     try {
+      // Safely collect device data
+      let deviceData = {};
+      try {
+        deviceData = collectDeviceData();
+      } catch (deviceError) {
+        console.warn('Could not collect device data:', deviceError);
+        // Continue without device data
+      }
+      
       const response = await fetch('/api/match-models', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ challenge }),
+        body: JSON.stringify({ challenge, deviceData }),
       });
 
       if (!response.ok) {
@@ -190,6 +229,8 @@ export default function MatchPage() {
                         <p className="text-purple-100 italic">"{match.keyQuestion}"</p>
                       </div>
                     )}
+
+                    <p className="text-gray-300 mb-4">{match.model.summary}</p>
 
                     <div className="flex flex-wrap gap-2 mb-4">
                       {match.model.useCases.map((useCase) => (

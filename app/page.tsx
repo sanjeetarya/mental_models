@@ -64,7 +64,7 @@ export default function HomePage() {
             <Card className="bg-gray-800/50 border-gray-700">
               <CardContent className="p-6 text-center">
                 <TrendingUp className="h-12 w-12 text-blue-400 mx-auto mb-4" />
-                <h3 className="text-2xl font-bold text-white mb-2">100+</h3>
+                <h3 className="text-2xl font-bold text-white mb-2">89+</h3>
                 <p className="text-gray-300">Mental Models</p>
               </CardContent>
             </Card>
@@ -72,7 +72,7 @@ export default function HomePage() {
             <Card className="bg-gray-800/50 border-gray-700">
               <CardContent className="p-6 text-center">
                 <Users className="h-12 w-12 text-green-400 mx-auto mb-4" />
-                <h3 className="text-2xl font-bold text-white mb-2">12</h3>
+                <h3 className="text-2xl font-bold text-white mb-2">8</h3>
                 <p className="text-gray-300">Disciplines Covered</p>
               </CardContent>
             </Card>
