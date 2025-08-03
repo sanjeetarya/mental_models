@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Acquiring Wisdom",
+    "oneLiner": "Wisdom isn't just knowledge, it's knowing how to use knowledge well across all domains of life"
+  },
+  {
+    "name": "The Map is not the Territory",
+    "oneLiner": "Never confuse the model/map with reality, all representations are incomplete simplifications"
+  },
+  {
+    "name": "Circle of Competence",
+    "oneLiner": "Know what you know, know what you don't know, and operate primarily within your circle"
+  },
+  {
+    "name": "First Principles Thinking",
+    "oneLiner": "Break problems down to their fundamental truths and build solutions from the ground up"
+  },
+  {
+    "name": "Thought Experiment",
+    "oneLiner": "Explore ideas and test theories through rigorous mental simulation when real experiments aren't possible"
+  },
+  {
+    "name": "Second-Order Thinking",
+    "oneLiner": "Think beyond immediate consequences, what happens after what happens?"
+  },
+  {
+    "name": "Probabilistic Thinking",
+    "oneLiner": "Think in terms of likelihood and ranges rather than false certainties and binary outcomes"
+  },
+  {
+    "name": "Occam’s Razor",
+    "oneLiner": "When faced with competing explanations, choose the simplest one that adequately fits the facts"
+  },
+  {
+    "name": "Hanlon’s Razor",
+    "oneLiner": "Never attribute to malice that which can be adequately explained by stupidity, incompetence, or mistake"
+  },
+  {
+    "name": "Falsifiability",
+    "oneLiner": "A theory is only valuable if it can be proven wrong through evidence"
+  },
+  {
+    "name": "Necessity and Sufficiency",
+    "oneLiner": "Distinguish between what's required (necessary) versus what's enough (sufficient) to achieve an outcome"
+  },
+  {
+    "name": "Causation vs. Correlation",
+    "oneLiner": "Correlation shows things happen together; causation shows one thing causes another"
+  },
+  {
+    "name": "Scarcity",
+    "oneLiner": "When resources are finite, their value increases and drives human behavior"
+  },
+  {
+    "name": "Supply and Demand",
+    "oneLiner": "Prices are determined by the balance between how much is available (supply) and how much people want it (demand)"
+  },
+  {
+    "name": "Game Theory",
+    "oneLiner": "Understanding how rational actors make decisions when the outcome depends on others' choices"
+  },
+  {
+    "name": "Optimization",
+    "oneLiner": "Finding the best possible outcome within given constraints"
+  },
+  {
+    "name": "Trade-offs",
+    "oneLiner": "Every choice involves giving up something else to get what you want"
+  },
+  {
+    "name": "Specialization",
+    "oneLiner": "Focusing on what you do best creates efficiency and competitive advantage"
+  },
+  {
+    "name": "Interdependence",
+    "oneLiner": "Success depends on complex webs of mutual reliance between people and systems"
+  },
+  {
+    "name": "Efficiency",
+    "oneLiner": "Getting maximum output with minimum waste of resources"
+  },
+  {
+    "name": "Debt",
+    "oneLiner": "Borrowing against future resources to access present opportunities"
+  },
+  {
+    "name": "Monopoly and Competition",
+    "oneLiner": "Markets with one dominant player versus many competitors create different opportunities and constraints"
+  },
+  {
+    "name": "Creative Destruction",
+    "oneLiner": "Innovation destroys old ways of doing things while creating new value"
+  },
+  {
+    "name": "Gresham’s Law",
+    "oneLiner": "Bad money drives out good money when people can't distinguish quality differences"
+  },
+  {
+    "name": "Bubbles",
+    "oneLiner": "Asset prices that rise far above fundamental value due to speculation and herd behavior"
+  },
+  {
+    "name": "Audience",
+    "oneLiner": "Understanding and engaging the right audience shapes the appreciation and impact of your work"
+  },
+  {
+    "name": "Genre",
+    "oneLiner": "Genres provide frameworks for creating and interpreting work while enabling creative innovation"
+  },
+  {
+    "name": "Contrast",
+    "oneLiner": "Contrast draws attention and enhances impact through the strategic use of differences"
+  },
+  {
+    "name": "Framing",
+    "oneLiner": "How something is framed shapes its meaning, interpretation, and impact"
+  },
+  {
+    "name": "Rhythm",
+    "oneLiner": "Rhythm organizes experience through patterns that influence mood, attention, and behavior"
+  },
+  {
+    "name": "Melody",
+    "oneLiner": "Melody is the memorable sequence that carries emotional meaning and creates lasting impact"
+  },
+  {
+    "name": "Representation",
+    "oneLiner": "How we represent ideas shapes understanding and reveals deeper meanings and cultural values"
+  },
+  {
+    "name": "Plot",
+    "oneLiner": "Plot structures the sequence of events to create meaning, engagement, and desired outcomes"
+  },
+  {
+    "name": "Character",
+    "oneLiner": "Characters embody the human elements that drive engagement, relatability, and emotional connection"
+  },
+  {
+    "name": "Setting",
+    "oneLiner": "Setting provides the context and environment that shapes how everything else is perceived and experienced"
+  },
+  {
+    "name": "Feedback Loops",
+    "oneLiner": "Systems adjust and learn through information returned from their own outputs"
+  },
+  {
+    "name": "Equilibrium",
+    "oneLiner": "A stable state where opposing forces balance and no net change occurs"
+  },
+  {
+    "name": "Bottlenecks",
+    "oneLiner": "The slowest component determines the system's overall performance and limits output"
+  },
+  {
+    "name": "Scale",
+    "oneLiner": "System properties and behaviors change fundamentally as size increases or decreases"
+  },
+  {
+    "name": "Margin of Safety",
+    "oneLiner": "Build extra capacity beyond minimum requirements to handle unexpected stress"
+  },
+  {
+    "name": "Churn",
+    "oneLiner": "System components constantly wear out, leave, or need replacement - this attrition is inevitable"
+  },
+  {
+    "name": "Algorithms",
+    "oneLiner": "Step-by-step procedures that reliably transform inputs into desired outputs"
+  },
+  {
+    "name": "Complex Adaptive Systems",
+    "oneLiner": "Systems where simple components following basic rules create complex, unpredictable emergent behaviors"
+  },
+  {
+    "name": "Critical Mass",
+    "oneLiner": "The minimum amount needed to trigger self-sustaining change or growth"
+  },
+  {
+    "name": "Emergence",
+    "oneLiner": "Complex wholes exhibiting properties and behaviors not present in their individual parts"
+  },
+  {
+    "name": "Chaos Dynamics",
+    "oneLiner": "Small changes in complex systems can produce dramatically different outcomes over time"
+  },
+  {
+    "name": "Irreducibility",
+    "oneLiner": "Some systems cannot be simplified without losing their essential properties or functions"
+  },
+  {
+    "name": "The Law of Diminishing Returns",
+    "oneLiner": "Additional inputs yield progressively smaller improvements until they become counterproductive"
+  },
+  {
+    "name": "Distributions",
+    "oneLiner": "Understanding how values spread and cluster reveals patterns for better prediction and decision-making"
+  },
+  {
+    "name": "Compounding",
+    "oneLiner": "Small, consistent actions accumulate exponentially over time due to effects building on previous effects"
+  },
+  {
+    "name": "Network Effects",
+    "oneLiner": "System value increases exponentially as more people use it, creating powerful competitive advantages"
+  },
+  {
+    "name": "Sampling",
+    "oneLiner": "Drawing conclusions from limited data requires understanding how representative your sample is"
+  },
+  {
+    "name": "Randomness",
+    "oneLiner": "True randomness exists, and apparent patterns may be coincidental rather than meaningful"
+  },
+  {
+    "name": "Pareto Principle",
+    "oneLiner": "Roughly 80% of effects come from 20% of causes, revealing where to focus efforts for maximum impact"
+  },
+  {
+    "name": "Regression to the Mean",
+    "oneLiner": "Extreme outcomes tend to be followed by more moderate ones due to the role of random variation"
+  },
+  {
+    "name": "Multiplying by Zero",
+    "oneLiner": "One critical failure can eliminate all positive results, making weak links more important than strong ones"
+  },
+  {
+    "name": "Equivalence",
+    "oneLiner": "Different approaches or representations can produce the same results, providing multiple paths to solutions"
+  },
+  {
+    "name": "Order of Magnitude",
+    "oneLiner": "Understanding scale differences in powers of ten reveals what matters and what's negligible"
+  },
+  {
+    "name": "Surface Area",
+    "oneLiner": "The amount of contact or exposure a system has with its environment affects both opportunities and vulnerabilities"
+  },
+  {
+    "name": "Global and Local Maxima",
+    "oneLiner": "Distinguishing between locally optimal solutions and globally optimal ones prevents getting stuck in suboptimal positions"
+  },
+  {
+    "name": "Relativity",
+    "oneLiner": "Your perspective shapes your experience of reality"
+  },
+  {
+    "name": "Reciprocity",
+    "oneLiner": "For every action, there is an equal and opposite reaction"
+  },
+  {
+    "name": "Thermodynamics",
+    "oneLiner": "Energy flows toward equilibrium, and maintaining order requires constant effort"
+  },
+  {
+    "name": "Inertia",
+    "oneLiner": "Objects at rest stay at rest, objects in motion stay in motion"
+  },
+  {
+    "name": "Friction and Viscosity",
+    "oneLiner": "All movement encounters resistance that must be overcome"
+  },
+  {
+    "name": "Velocity",
+    "oneLiner": "Direction matters more than speed alone"
+  },
+  {
+    "name": "Leverage",
+    "oneLiner": "Small forces, applied correctly, can move large objects"
+  },
+  {
+    "name": "Activation Energy",
+    "oneLiner": "Every change requires a minimum energy investment to get started"
+  },
+  {
+    "name": "Catalysts",
+    "oneLiner": "Catalysts speed up change without being consumed in the process"
+  },
+  {
+    "name": "Alloying",
+    "oneLiner": "Combining elements creates materials stronger than individual components"
+  },
+  {
+    "name": "Natural Selection and Extinction",
+    "oneLiner": "Environment selects which traits survive and thrive"
+  },
+  {
+    "name": "Adaptation Rate and the Red Queen Effect",
+    "oneLiner": "You must keep evolving just to stay in the same place in a competitive environment"
+  },
+  {
+    "name": "Competition",
+    "oneLiner": "Competition for limited resources drives innovation, efficiency, and survival"
+  },
+  {
+    "name": "Ecosystem",
+    "oneLiner": "Everything is interconnected in complex webs of mutual dependence"
+  },
+  {
+    "name": "Niches",
+    "oneLiner": "Finding your optimal position within a larger ecosystem"
+  },
+  {
+    "name": "Self-Preservation",
+    "oneLiner": "All organisms prioritize survival above all other goals"
+  },
+  {
+    "name": "Replication",
+    "oneLiner": "Successful patterns copy themselves and spread"
+  },
+  {
+    "name": "Cooperation",
+    "oneLiner": "Working together creates advantages greater than individual efforts"
+  },
+  {
+    "name": "Dunbar's Number",
+    "oneLiner": "Humans can maintain about 150 stable relationships"
+  },
+  {
+    "name": "Hierarchical Organization",
+    "oneLiner": "Natural systems organize in ranked levels for efficient coordination and resource allocation"
+  },
+  {
+    "name": "Incentives",
+    "oneLiner": "People and organisms respond predictably to rewards and punishments"
+  },
+  {
+    "name": "Tendency to Minimize Energy Output",
+    "oneLiner": "All systems naturally favor paths that require the least energy or effort"
+  },
+  {
+    "name": "Inversion",
+    "oneLiner": "Instead of asking how to succeed, ask what would guarantee failure, and avoid that"
+  },
+  {
+    "name": "Nash Equilibrium",
+    "oneLiner": "A stable state where no player can improve their outcome by unilaterally changing their strategy"
+  },
+  {
+    "name": "Prisoner's Dilemma",
+    "oneLiner": "Two parties acting in their own self-interest produce a worse outcome than if they had cooperated"
+  },
+  {
+    "name": "Opportunity Cost",
+    "oneLiner": "Every choice involves giving up the next best alternative the true cost of any decision"
+  },
+  {
+    "name": "Homeostasis",
+    "oneLiner": "Systems naturally work to maintain stable internal conditions despite external changes"
+  },
+  {
+    "name": "Economies of Scale",
+    "oneLiner": "Cost per unit decreases as production volume increases, creating competitive advantages through size"
+  },
+  {
+    "name": "Butterfly Effect",
+    "oneLiner": "Small changes in initial conditions can produce dramatically different outcomes in complex systems"
+  }
+]

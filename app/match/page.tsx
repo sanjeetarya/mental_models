@@ -6,37 +6,50 @@ import { Textarea } from "@/components/ui/textarea"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { mentalModels, type MentalModel } from "@/lib/mental-models"
-import { Zap, Lightbulb, ArrowRight } from "lucide-react"
+import { Zap, Lightbulb, ArrowRight, Brain, AlertTriangle } from "lucide-react"
 import Link from "next/link"
 
 interface MatchResult {
   model: MentalModel
   relevance: string
+  keyQuestion?: string
   score: number
+  isLLMMatch?: boolean
 }
 
 export default function MatchPage() {
   const [challenge, setChallenge] = useState("")
   const [matches, setMatches] = useState<MatchResult[]>([])
   const [isLoading, setIsLoading] = useState(false)
+  const [matchingMethod, setMatchingMethod] = useState<'llm' | 'keyword'>('llm')
+  const [error, setError] = useState<string | null>(null)
 
-  const findMatches = async () => {
-    if (!challenge.trim()) return
+  const findMatchesWithLLM = async (): Promise<MatchResult[]> => {
+    const response = await fetch('/api/match-models', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ challenge }),
+    });
 
-    setIsLoading(true)
+    if (!response.ok) {
+      throw new Error(`LLM matching failed: ${response.statusText}`);
+    }
 
-    // Simulate AI matching logic
-    await new Promise((resolve) => setTimeout(resolve, 1500))
+    const data = await response.json();
+    return data.matches;
+  }
 
+  const findMatchesWithKeywords = (): MatchResult[] => {
     const challengeLower = challenge.toLowerCase()
     const matchResults: MatchResult[] = []
 
-    // Simple keyword-based matching (in a real app, you'd use AI/ML)
     mentalModels.forEach((model) => {
       let score = 0
       let relevance = ""
 
-      // Check for direct keyword matches
+      // Your existing keyword matching logic
       if (
         challengeLower.includes("decision") ||
         challengeLower.includes("choose") ||
@@ -117,15 +130,44 @@ export default function MatchPage() {
       }
 
       if (score > 0) {
-        matchResults.push({ model, relevance, score })
+        matchResults.push({ model, relevance, score, isLLMMatch: false })
       }
     })
 
-    // Sort by score and take top 6
-    const topMatches = matchResults.sort((a, b) => b.score - a.score).slice(0, 6)
+    return matchResults.sort((a, b) => b.score - a.score).slice(0, 6)
+  }
 
-    setMatches(topMatches)
-    setIsLoading(false)
+  const findMatches = async () => {
+    if (!challenge.trim()) return
+
+    setIsLoading(true)
+    setError(null)
+
+    try {
+      let matchResults: MatchResult[] = []
+
+      // Try LLM matching first
+      try {
+        matchResults = await findMatchesWithLLM()
+        setMatchingMethod('llm')
+      } catch (llmError) {
+        console.warn('LLM matching failed, falling back to keyword matching:', llmError)
+        setError('AI matching unavailable, using keyword matching')
+        
+        // Simulate delay for consistency
+        await new Promise((resolve) => setTimeout(resolve, 1000))
+        
+        matchResults = findMatchesWithKeywords()
+        setMatchingMethod('keyword')
+      }
+
+      setMatches(matchResults)
+    } catch (error) {
+      console.error('Matching failed:', error)
+      setError('Matching failed. Please try again.')
+    } finally {
+      setIsLoading(false)
+    }
   }
 
   return (
@@ -170,15 +212,36 @@ export default function MatchPage() {
                 </>
               )}
             </Button>
+            
+            {error && (
+              <div className="flex items-center p-3 bg-yellow-900/20 border border-yellow-800/30 rounded-lg">
+                <AlertTriangle className="h-4 w-4 text-yellow-400 mr-2" />
+                <span className="text-yellow-200 text-sm">{error}</span>
+              </div>
+            )}
           </CardContent>
         </Card>
 
         {matches.length > 0 && (
           <div>
-            <h2 className="text-2xl font-bold text-white mb-6 flex items-center">
-              <ArrowRight className="mr-2 h-6 w-6 text-green-400" />
-              Recommended Mental Models
-            </h2>
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="text-2xl font-bold text-white flex items-center">
+                <ArrowRight className="mr-2 h-6 w-6 text-green-400" />
+                Recommended Mental Models
+              </h2>
+              <Badge 
+                className={matchingMethod === 'llm' ? 'bg-purple-600' : 'bg-gray-600'}
+              >
+                {matchingMethod === 'llm' ? (
+                  <>
+                    <Brain className="mr-1 h-3 w-3" />
+                    AI Powered
+                  </>
+                ) : (
+                  'Keyword Based'
+                )}
+              </Badge>
+            </div>
 
             <div className="space-y-6">
               {matches.map((match, index) => (
@@ -200,7 +263,14 @@ export default function MatchPage() {
                       <p className="text-blue-100">{match.relevance}</p>
                     </div>
 
-                    <p className="text-gray-300 mb-4">{match.model.summary}</p>
+                    {match.keyQuestion && (
+                      <div className="bg-purple-900/20 rounded-lg p-4 mb-4 border border-purple-800/30">
+                        <p className="text-purple-200 font-medium">Key question to ask yourself:</p>
+                        <p className="text-purple-100 italic">"{match.keyQuestion}"</p>
+                      </div>
+                    )}
+
+                    {/* <p className="text-gray-300 mb-4">{match.model.summary}</p> */}
 
                     <div className="flex flex-wrap gap-2 mb-4">
                       {match.model.useCases.map((useCase) => (

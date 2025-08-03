@@ -222,29 +222,44 @@ export function searchMentalModels(query: string): MentalModel[] {
   )
 }
 
-export const domains = [
-  "General Thinking",
-  "Psychology",
-  "Economics",
-  "Mathematics",
-  "Physics",
-  "Biology",
-  "Systems Thinking",
-  "Philosophy",
-  "Engineering",
-  "Science",
-]
+// export const domains = [
+//   "General Thinking",
+//   "Psychology",
+//   "Economics",
+//   "Mathematics",
+//   "Physics",
+//   "Biology",
+//   "Systems Thinking",
+//   "Philosophy",
+//   "Engineering",
+//   "Science",
+// ]
 
-export const useCases = [
-  "Decision-Making",
-  "Problem Solving",
-  "Business Strategy",
-  "Career Navigation",
-  "Learning",
-  "Communication",
-  "Leadership",
-  "Investing",
-  "Productivity",
-  "Innovation",
-  "Negotiation",
-]
+// export const useCases = [
+//   "Decision-Making",
+//   "Problem Solving",
+//   "Business Strategy",
+//   "Career Navigation",
+//   "Learning",
+//   "Communication",
+//   "Leadership",
+//   "Investing",
+//   "Productivity",
+//   "Innovation",
+//   "Negotiation",
+// ]
+// Remove the hard-coded arrays and replace with these functions:
+
+export function getAllDomains(): string[] {
+  const allDomains = mentalModels.flatMap(model => model.domains)
+  return [...new Set(allDomains)].sort()
+}
+
+export function getAllUseCases(): string[] {
+  const allUseCases = mentalModels.flatMap(model => model.useCases)
+  return [...new Set(allUseCases)].sort()
+}
+
+// If you need them as constants for backward compatibility:
+export const domains = getAllDomains()
+export const useCases = getAllUseCases()
