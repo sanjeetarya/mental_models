@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "acquiring-wisdom",
+    "name": "Acquiring Wisdom",
+    "oneLiner": "Wisdom isn't just knowledge, it's knowing how to use knowledge well across all domains of life",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Learning & Knowledge",
+      "Decision Making",
+      "Strategic Thinking"
+    ],
+    "definition": "The meta-process of developing sound judgment through experience, learning from mistakes, and understanding deeper patterns that govern human behavior and natural systems. It's the bridge between raw information and practical insight that can be applied across multiple disciplines.",
+    "summary": "Wisdom develops through combining knowledge with experience, reflection, and pattern recognition across disciplines. It's about making sound judgments rather than just accumulating facts. The key is intellectual humility, learning from failures, and building a latticework of understanding that connects ideas from different fields.",
+    "whenToUse": "Use as foundational framework for all learning and decision-making. Focus on principles over facts, seek diverse perspectives across disciplines, learn from failure, and practice applying knowledge in real situations. Wisdom compounds over time through deliberate reflection and pattern recognition.",
+    "examples": [
+      "Business & Career: Wise leader knows when to bend rules vs enforce them, balancing immediate pressures with long-term consequences",
+      "Decision Making: Understanding that market knowledge without emotional control leads to poor investment decisions",
+      "Learning & Knowledge: Recognizing that true understanding comes from connecting ideas across disciplines"
+    ],
+    "quote": "The only true wisdom is in knowing you know nothing. - Socrates",
+    "relatedModels": [
+      "circle-of-competence",
+      "second-order-thinking",
+      "inversion"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "the-map-is-not-the-territory",
+    "name": "The Map is not the Territory",
+    "oneLiner": "Never confuse the model/map with reality, all representations are incomplete simplifications",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "The Map is not the Territory reminds us that any representation of reality (business plans, financial models, theories) is necessarily incomplete and imperfect. The model is useful for navigation but should never be mistaken for the actual phenomenon it represents.",
+    "summary": "All models, maps, and theories are simplified representations of complex reality. They're useful tools but have limitations and blind spots. Always remember that the model isn't the real thing, it's just a guide. Stay flexible and update your models when reality provides new information.",
+    "whenToUse": "Apply this when working with any model, strategy, or theoretical framework. Always ask: \"What is this model missing?\" and \"Where might it break down?\" Especially crucial when making strategic decisions based on projections, market research, or competitive analysis.",
+    "examples": [
+      "Business & Career: A financial projection is useful but won't capture all market variables or black swan events",
+      "Strategic Thinking: Your competitive analysis shows market trends, but actual customer behavior may differ significantly",
+      "Product & Design: User research provides insights, but individual user needs vary beyond what surveys capture"
+    ],
+    "quote": "A map is not the territory it represents, but if correct, it has a similar structure to the territory. - Alfred Korzybski",
+    "relatedModels": [
+      "first-principles-thinking",
+      "circle-of-competence",
+      "probabilistic-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "circle-of-competence",
+    "name": "Circle of Competence",
+    "oneLiner": "Know what you know, know what you don't know, and operate primarily within your circle",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Business & Career",
+      "Strategic Thinking"
+    ],
+    "definition": "Circle of Competence refers to the areas where you have genuine knowledge, experience, and expertise that gives you an edge over others. It requires honest self-assessment of your capabilities and making decisions primarily within domains of real competence.",
+    "summary": "Define the areas where you have deep, defensible expertise and stay within those boundaries for important decisions. It's not about the size of your circle, it's about knowing exactly where the edges are. Expand deliberately through learning, but never pretend your circle is bigger than it is.",
+    "whenToUse": "Apply this for major decisions, investments, career moves, or strategic initiatives. Draw your circle honestly include areas of deep knowledge, exclude areas of superficial understanding. Expand deliberately through focused learning, but never pretend your circle is bigger than it is.",
+    "examples": [
+      "Business & Career: Warren Buffett avoids tech investments outside his understanding, focusing on businesses he can evaluate",
+      "Strategic Thinking: Taking on projects within your expertise while partnering with others for skills gaps",
+      "Decision Making: Focusing on industries and problems you deeply understand rather than chasing every opportunity"
+    ],
+    "quote": "Know your circle of competence, and stick within it. The size of that circle is not very important; knowing its boundaries, however, is vital. - Warren Buffett",
+    "relatedModels": [
+      "acquiring-wisdom",
+      "specialization",
+      "first-principles-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "first-principles-thinking",
+    "name": "First Principles Thinking",
+    "oneLiner": "Break problems down to their fundamental truths and build solutions from the ground up",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Problem Solving",
+      "Creativity & Innovation",
+      "Strategic Thinking"
+    ],
+    "definition": "First Principles Thinking involves deconstructing complex problems into their most basic, foundational elements the fundamental truths that cannot be deduced from other assumptions. From these building blocks, you reason upward to create novel solutions.",
+    "summary": "Strip away assumptions, analogies, and conventional wisdom to get to the core truths. Then rebuild your understanding from these fundamentals. This approach helps you see past \"how things have always been done\" to discover what's actually possible. Essential for breakthrough thinking and innovation.",
+    "whenToUse": "Use when conventional approaches aren't working or when breakthrough innovation is needed. Ask \"What do we know to be absolutely true?\" and \"What are we assuming that might not be necessary?\" Strip away analogies and conventional wisdom to see problems clearly.",
+    "examples": [
+      "Creativity & Innovation: Elon Musk broke down rocket costs to raw materials instead of accepting industry pricing, enabling SpaceX",
+      "Product & Design: Instead of improving existing features, question why the feature exists and what problem it actually solves",
+      "Business & Career: When career advice isn't working, examine what you actually want versus what others expect"
+    ],
+    "quote": "I think it's important to reason from first principles rather than by analogy. - Elon Musk",
+    "relatedModels": [
+      "inversion",
+      "the-map-is-not-the-territory",
+      "thought-experiment"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "thought-experiment",
+    "name": "Thought Experiment",
+    "oneLiner": "Explore ideas and test theories through rigorous mental simulation when real experiments aren't possible",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Problem Solving",
+      "Creativity & Innovation",
+      "Strategic Thinking"
+    ],
+    "definition": "A Thought Experiment is a disciplined mental simulation used to explore potential consequences of principles, theories, or decisions. It allows testing concepts mentally without physical implementation, often revealing hidden assumptions or unexpected implications.",
+    "summary": "Use your imagination systematically to test ideas, explore scenarios, and understand consequences before taking action. More than daydreaming, it's a structured process of mental simulation that can reveal insights impossible to get through direct experience. Especially valuable for high-stakes or impossible-to-test situations.",
+    "whenToUse": "Use when direct testing is impossible, expensive, or unethical. Create detailed scenarios: \"What would happen if...?\" Push scenarios to extremes to test boundaries. Follow scientific method: form hypothesis, test mentally, analyze outcomes, draw conclusions.",
+    "examples": [
+      "Strategic Thinking: \"What if our main competitor disappeared tomorrow?\" reveals market dynamics and strategic opportunities",
+      "Product & Design: \"What if users could only use one feature?\" helps prioritize core functionality",
+      "Business & Career: \"What if I couldn't fail?\" removes fear-based constraints from decision-making"
+    ],
+    "quote": "Imagination is more important than knowledge. - Albert Einstein",
+    "relatedModels": [
+      "first-principles-thinking",
+      "inversion",
+      "second-order-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "second-order-thinking",
+    "name": "Second-Order Thinking",
+    "oneLiner": "Think beyond immediate consequences, what happens after what happens?",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "Second-Order Thinking involves considering not just immediate effects of decisions, but the consequences of those consequences. It asks \"And then what?\" to trace through multiple levels of cause and effect over time, revealing long-term implications.",
+    "summary": "Always ask \"And then what happens?\" Most people stop at first-order effects, but the real insights come from thinking through the chain of consequences. What seems like a good idea initially might create bigger problems later. Consider how others will react to your actions and how systems will adapt.",
+    "whenToUse": "Apply to significant decisions by asking: \"What will be the immediate result? What will happen because of that result? And what happens after that?\" Essential for strategic planning, policy decisions, and choices with long-term implications.",
+    "examples": [
+      "Business & Career: Cutting prices increases sales (first-order) but may trigger price wars and damage brand perception (second-order)",
+      "Strategic Thinking: Remote work saves office costs (first-order) but may reduce team cohesion and innovation (second-order)",
+      "Behavior & Habits: Avoiding difficult conversations preserves immediate peace but allows problems to compound"
+    ],
+    "quote": "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. - F.A. Hayek",
+    "relatedModels": [
+      "inversion",
+      "systems-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "probabilistic-thinking",
+    "name": "Probabilistic Thinking",
+    "oneLiner": "Think in terms of likelihood and ranges rather than false certainties and binary outcomes",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "Probabilistic Thinking is the practice of estimating the likelihood of various outcomes rather than making binary predictions. It involves embracing uncertainty and making decisions based on probability ranges while updating beliefs as new information emerges.",
+    "summary": "Replace binary thinking (will/won't happen) with probability ranges (30% chance, 70% likely). Express confidence in degrees rather than absolutes. Update your estimates as new information arrives. This helps you make better decisions under uncertainty and avoid overconfidence.",
+    "whenToUse": "Use when facing uncertainty (most important decisions). Instead of \"Will this work?\" ask \"What's the probability this will work?\" Express confidence in ranges: \"I'm 70% confident this will happen\" rather than absolute statements. Essential for risk assessment and strategic planning.",
+    "examples": [
+      "Business & Career: Estimating market response probabilities rather than assuming certain outcomes when launching products",
+      "Decision Making: Assessing multiple scenarios with different probabilities rather than banking on single outcomes",
+      "Strategic Thinking: Portfolio approaches that account for various success probabilities across initiatives"
+    ],
+    "quote": "Prediction is very difficult, especially about the future. - Niels Bohr",
+    "relatedModels": [
+      "bayes'-theorem",
+      "randomness",
+      "regression-to-the-mean"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "occam’s-razor",
+    "name": "Occam’s Razor",
+    "oneLiner": "When faced with competing explanations, choose the simplest one that adequately fits the facts",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Problem Solving",
+      "Decision Making",
+      "Productivity & Focus"
+    ],
+    "definition": "Occam's Razor is the principle that the simplest explanation is usually the correct one. When multiple theories explain the same phenomenon equally well, prefer the one with fewer assumptions and moving parts.",
+    "summary": "Simplicity is often a sign of truth. When you have multiple explanations for something, the one with fewer assumptions and moving parts is more likely to be correct. Don't overcomplicate things, look for the straightforward explanation first. Complexity should be your last resort, not your first instinct.",
+    "whenToUse": "Apply when analyzing problems, choosing between solutions, or evaluating explanations. Look for explanations requiring fewest assumptions or solutions with least complexity. Especially valuable when overthinking or when conspiracy theories emerge.",
+    "examples": [
+      "Problem Solving: Check obvious causes (server overload, human error) before assuming complex technical failures",
+      "Business & Career: Poor performance usually stems from execution issues rather than elaborate market conspiracies",
+      "Productivity & Focus: Simple systems often outperform complex productivity methods that require constant maintenance"
+    ],
+    "quote": "Entities should not be multiplied without necessity. - William of Ockham",
+    "relatedModels": [
+      "hanlon's-razor",
+      "first-principles-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "hanlon’s-razor",
+    "name": "Hanlon’s Razor",
+    "oneLiner": "Never attribute to malice that which can be adequately explained by stupidity, incompetence, or mistake",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Communication & Influence",
+      "Behavior & Habits",
+      "Decision Making"
+    ],
+    "definition": "Hanlon's Razor suggests that when someone's actions cause harm or frustration, it's more likely due to incompetence, ignorance, or honest mistake rather than malicious intent. Most negative outcomes result from human error rather than deliberate wrongdoing.",
+    "summary": "Before assuming someone is out to get you, consider that they might just be having a bad day, lack information, or made an honest mistake. This mindset reduces stress, preserves relationships, and often leads to better solutions. Most people aren't trying to harm you, they're just human.",
+    "whenToUse": "Use when feeling frustrated with others or interpreting negative events. Before assuming bad intentions, consider: incompetence, misunderstanding, different priorities, or simple mistakes. This reduces stress and often leads to better solutions and preserved relationships.",
+    "examples": [
+      "Communication & Influence: Poor customer service usually reflects training gaps, not intentional rudeness leading to more constructive feedback",
+      "Behavior & Habits: Colleagues missing deadlines often have competing priorities rather than disrespect for you",
+      "Business & Career: Failed partnerships more often result from misaligned expectations than deliberate sabotage"
+    ],
+    "quote": "Never ascribe to malice that which can adequately be explained by incompetence. - Napoleon Bonaparte",
+    "relatedModels": [
+      "occam's-razor",
+      "empathy"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "falsifiability",
+    "name": "Falsifiability",
+    "oneLiner": "A theory is only valuable if it can be proven wrong through evidence",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Learning & Knowledge",
+      "Problem Solving"
+    ],
+    "definition": "Falsifiability is the principle that for a theory or hypothesis to be scientifically meaningful, it must be possible to conceive of evidence that could prove it false. If a statement cannot potentially be proven wrong, it lacks scientific value and cannot help us distinguish truth from falsehood.",
+    "summary": "Falsifiability separates meaningful theories from meaningless ones. A good theory sticks its neck out and makes specific, testable predictions. The more specific and testable the predictions, the more valuable the theory becomes. This principle forces us to think clearly about what evidence would change our minds.",
+    "whenToUse": "Use when evaluating theories, business strategies, or beliefs. Ask \"What evidence would prove this wrong?\" If you can't think of any, the theory isn't useful. Apply when making predictions or testing assumptions. Essential for avoiding confirmation bias and building robust understanding.",
+    "examples": [
+      "Decision Making: Testing whether a hiring strategy actually improves performance by defining specific metrics that would prove it wrong",
+      "Problem Solving: Evaluating whether a solution works by identifying what failure would look like",
+      "Learning & Knowledge: Distinguishing between useful theories and unfalsifiable beliefs"
+    ],
+    "quote": "A theory is only as good as its ability to be proven wrong. - Karl Popper",
+    "relatedModels": [
+      "circle-of-competence",
+      "first-principles-thinking",
+      "probabilistic-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "necessity-and-sufficiency",
+    "name": "Necessity and Sufficiency",
+    "oneLiner": "Distinguish between what's required (necessary) versus what's enough (sufficient) to achieve an outcome",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Problem Solving",
+      "Strategic Thinking"
+    ],
+    "definition": "Necessity refers to conditions that must be present for an outcome to occur, while sufficiency refers to conditions that are enough to guarantee an outcome. Understanding this distinction helps clarify cause-and-effect relationships and avoid logical errors in reasoning.",
+    "summary": "Necessity asks \"What must be true?\" while sufficiency asks \"What's enough?\" Many strategic failures occur from confusing these concepts. Just because something is necessary doesn't mean it's sufficient. Having oxygen is necessary for fire, but it's not sufficient—you also need fuel and heat. This framework prevents oversimplified thinking about complex problems.",
+    "whenToUse": "Use when analyzing problems, developing strategies, or making decisions. Identify what conditions are absolutely required versus what would guarantee success. Apply when evaluating solutions to ensure you're addressing both necessary conditions and sufficient conditions for your desired outcome.",
+    "examples": [
+      "Strategic Thinking: Understanding that having a good product is necessary but not sufficient for business success—you also need marketing, distribution, and timing",
+      "Problem Solving: Recognizing that eliminating one cause of customer churn is necessary but may not be sufficient to improve retention",
+      "Business & Career: Knowing that skills are necessary but not sufficient for career success—relationships and opportunities also matter"
+    ],
+    "quote": "In logic, necessity and sufficiency are terms used to describe a conditional or implicational relationship between statements. - Classical Logic",
+    "relatedModels": [
+      "first-principles-thinking",
+      "causation-vs-correlation"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "causation-vs.-correlation",
+    "name": "Causation vs. Correlation",
+    "oneLiner": "Correlation shows things happen together; causation shows one thing causes another",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Problem Solving",
+      "Learning & Knowledge"
+    ],
+    "definition": "Causation means one event directly causes another, while correlation simply means two events tend to occur together. This distinction is crucial because correlation doesn't imply causation—two things can be related without one causing the other. Understanding this difference prevents faulty reasoning and poor decision-making.",
+    "summary": "This is one of the most important distinctions in reasoning. Just because ice cream sales and drowning incidents both increase in summer doesn't mean ice cream causes drowning—both are caused by hot weather. The danger lies in assuming correlation equals causation, leading to incorrect solutions. Strong correlation can suggest causation but never proves it.",
+    "whenToUse": "Use when analyzing data, making decisions, or evaluating claims. Always ask whether observed relationships are causal or merely correlational. Essential for business analytics, research evaluation, and strategic planning. Look for confounding variables that might explain correlations.",
+    "examples": [
+      "Decision Making: Not assuming that companies with better employee satisfaction automatically have higher profits without considering other factors",
+      "Problem Solving: Understanding that website changes that correlate with increased sales may not have caused the increase",
+      "Business & Career: Recognizing that successful people who wake up early aren't necessarily successful because they wake up early"
+    ],
+    "quote": "Correlation does not imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'. - Randall Munroe",
+    "relatedModels": [
+      "second-order-thinking",
+      "probabilistic-thinking",
+      "first-principles-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "scarcity",
+    "name": "Scarcity",
+    "oneLiner": "When resources are finite, their value increases and drives human behavior",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Business & Career"
+    ],
+    "definition": "Scarcity is the fundamental economic problem of having unlimited human wants and needs in a world of limited resources. This constraint forces choices and trade-offs, creating value and driving much of human behavior and economic activity.",
+    "summary": "Scarcity shapes everything from pricing to psychology. When something is rare, we want it more. But scarcity can be real (limited gold) or artificial (limited luxury goods). The key insight is that scarcity forces prioritization—we can't have everything, so we must choose. This applies to time, attention, money, and opportunities. Understanding scarcity helps predict behavior and make better decisions.",
+    "whenToUse": "Apply when making resource allocation decisions, understanding market dynamics, or creating value. Use to prioritize time and energy on what matters most. Essential for understanding pricing, motivation, and human behavior. Consider both real and perceived scarcity when making strategic decisions.",
+    "examples": [
+      "Business & Career: Using scarcity in marketing (limited-time offers) to drive action",
+      "Strategic Thinking: Recognizing that executive attention is scarce and focusing on key priorities",
+      "Decision Making: Understanding that time scarcity makes opportunity cost calculations more important",
+      "Product & Design: Creating exclusive features or limited releases to increase demand"
+    ],
+    "quote": "The first lesson of economics is scarcity: there is never enough of anything to fully satisfy all those who want it. - Thomas Sowell",
+    "relatedModels": [
+      "supply-and-demand",
+      "trade-offs"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "supply-and-demand",
+    "name": "Supply and Demand",
+    "oneLiner": "Prices are determined by the balance between how much is available (supply) and how much people want it (demand)",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Decision Making"
+    ],
+    "definition": "Supply and demand describes the fundamental mechanism that determines prices in a market economy. When demand exceeds supply, prices tend to rise. When supply exceeds demand, prices tend to fall. This relationship governs resource allocation and market behavior.",
+    "summary": "This is the bedrock of market economics. High demand + low supply = high prices. Low demand + high supply = low prices. But it's more nuanced—demand can be manipulated through marketing, and supply can be artificially controlled. Understanding this helps predict price movements, market opportunities, and consumer behavior. It's not just about products—it applies to jobs, skills, and attention too.",
+    "whenToUse": "Use when analyzing markets, setting prices, or making investment decisions. Apply to understand job markets, skill development, and business opportunities. Essential for entrepreneurs, investors, and anyone making economic decisions. Consider both current and future supply/demand dynamics.",
+    "examples": [
+      "Strategic Thinking: Understanding that rare skills command higher salaries due to low supply and high demand",
+      "Business & Career: Timing product launches when demand is high but competition (supply) is low",
+      "Decision Making: Choosing career paths in growing fields where demand exceeds supply of qualified professionals"
+    ],
+    "quote": "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. - F.A. Hayek",
+    "relatedModels": [
+      "scarcity",
+      "game-theory"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "game-theory",
+    "name": "Game Theory",
+    "oneLiner": "Understanding how rational actors make decisions when the outcome depends on others' choices",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Problem Solving"
+    ],
+    "definition": "Game Theory is the mathematical study of strategic decision-making between rational agents. It analyzes situations where your optimal choice depends on what others choose, helping predict outcomes when multiple parties with different incentives interact.",
+    "summary": "Game Theory reveals the hidden logic behind strategic interactions. Whether it's business competition, negotiations, or international relations, understanding how others think about your thinking creates better strategies. Key concepts include Nash equilibrium (where no one benefits from changing strategy), zero-sum vs. positive-sum games, and the importance of credible commitments.",
+    "whenToUse": "Apply when facing strategic interactions where outcomes depend on others' decisions. Use for business strategy, negotiations, competitive analysis, and understanding market dynamics. Essential for situations involving competition, cooperation, or conflict. Consider what others know about your incentives and likely moves.",
+    "examples": [
+      "Strategic Thinking: Understanding that price wars in business often lead to everyone losing profits",
+      "Decision Making: Recognizing when cooperation creates better outcomes than competition",
+      "Problem Solving: Analyzing how to structure incentives so everyone benefits from doing the right thing",
+      "Business & Career: Understanding that sometimes the best competitive move is not to compete directly"
+    ],
+    "quote": "In game theory, as in life, the outcome depends not just on your own choices, but on the choices of others. - Strategic insight from Game Theory",
+    "relatedModels": [
+      "nash-equilibrium",
+      "prisoner's-dilemma"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "optimization",
+    "name": "Optimization",
+    "oneLiner": "Finding the best possible outcome within given constraints",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Problem Solving",
+      "Productivity & Focus",
+      "Strategic Thinking"
+    ],
+    "definition": "Optimization is the process of making something as effective or functional as possible within constraints. It involves finding the best solution among many possible alternatives, often requiring trade-offs between competing objectives like speed, quality, and cost.",
+    "summary": "Optimization is about making the best use of what you have. But beware—optimizing for one thing often makes other things worse. The goal isn't perfection but finding the best balance given your constraints and priorities. Local optimization (improving one part) can hurt global optimization (the whole system). Understanding what you're optimizing for is crucial.",
+    "whenToUse": "Use when you have limited resources and multiple competing objectives. Apply to time management, business processes, resource allocation, and strategic planning. Essential when trade-offs exist and you need to maximize outcomes. Consider whether you're optimizing locally or globally.",
+    "examples": [
+      "Problem Solving: Optimizing workflows to minimize time while maintaining quality",
+      "Productivity & Focus: Optimizing daily schedules to maximize deep work time",
+      "Strategic Thinking: Optimizing business models to balance growth, profitability, and sustainability",
+      "Business & Career: Optimizing skills development for maximum career impact with limited time"
+    ],
+    "quote": "The most important optimization is to do the right thing. A close second is to do the thing right. - Jon Bentley",
+    "relatedModels": [
+      "trade-offs",
+      "efficiency"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "trade-offs",
+    "name": "Trade-offs",
+    "oneLiner": "Every choice involves giving up something else to get what you want",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "Trade-offs represent the reality that choosing one option means forgoing alternatives. In a world of limited resources, you can't have everything, so every decision involves sacrificing some benefits to gain others. Understanding trade-offs helps make better decisions by explicitly considering what you're giving up.",
+    "summary": "Trade-offs are everywhere because resources are finite. Choosing to spend time on one activity means not spending it on another. Choosing one career path means not pursuing others. The key is making trade-offs consciously rather than by default. Good decision-making involves comparing the benefits of what you gain against the costs of what you lose.",
+    "whenToUse": "Apply to all major decisions involving limited resources like time, money, or attention. Use when prioritizing projects, allocating budgets, or choosing strategies. Essential for personal and professional decisions. Explicitly consider opportunity costs and make trade-offs conscious rather than accidental.",
+    "examples": [
+      "Decision Making: Choosing between working overtime for extra income versus spending time with family",
+      "Strategic Thinking: Deciding whether to focus on growth or profitability in business",
+      "Problem Solving: Balancing product features against development time and cost",
+      "Business & Career: Trading job security for higher potential rewards in startups"
+    ],
+    "quote": "Economics teaches you that making a choice means giving up something. - Russ Roberts",
+    "relatedModels": [
+      "opportunity-cost",
+      "scarcity",
+      "optimization"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "specialization",
+    "name": "Specialization",
+    "oneLiner": "Focusing on what you do best creates efficiency and competitive advantage",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Business & Career",
+      "Strategic Thinking",
+      "Productivity & Focus"
+    ],
+    "definition": "Specialization is the process of concentrating on a particular skill, area of knowledge, or type of product to become more efficient and effective. It enables higher quality output, reduced costs, and competitive advantages but creates interdependence and vulnerability if the specialized area becomes obsolete.",
+    "summary": "Specialization is why we don't all grow our own food and make our own clothes. By focusing on what we do best, we become more productive and can trade with others who specialize differently. This creates wealth and efficiency. But specialization also creates dependencies—you need others to provide what you don't make. The key is choosing your specialization wisely and maintaining some adaptability.",
+    "whenToUse": "Use when deciding career focus, business strategy, or skill development. Apply to team building by ensuring complementary specializations. Essential for competitive strategy and personal development. Consider both the benefits of focus and the risks of over-specialization. Balance depth with enough breadth to adapt.",
+    "examples": [
+      "Business & Career: Developing deep expertise in a valuable niche rather than being generalist",
+      "Strategic Thinking: Building business competitive advantage through specialized capabilities",
+      "Productivity & Focus: Focusing team members on their strengths rather than trying to improve weaknesses",
+      "Product & Design: Creating specialized products for specific market segments rather than trying to serve everyone"
+    ],
+    "quote": "Warren and I avoid doing anything that someone else at Berkshire can do better. - Charlie Munger",
+    "relatedModels": [
+      "trade-offs"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "interdependence",
+    "name": "Interdependence",
+    "oneLiner": "Success depends on complex webs of mutual reliance between people and systems",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Communication & Influence"
+    ],
+    "definition": "Interdependence describes the mutual reliance between individuals, groups, organizations, or systems. In our specialized world, everyone depends on others to meet their needs, creating both opportunities for cooperation and vulnerabilities when connections break down.",
+    "summary": "Interdependence is the flip side of specialization. As we specialize, we become dependent on others who specialize differently. This creates efficiency and enables complex achievements but also creates vulnerabilities. When one part of an interdependent system fails, it can cascade through the network. Understanding interdependence helps build resilient systems and better relationships.",
+    "whenToUse": "Apply when building teams, developing strategies, or understanding systems. Use to identify key dependencies and potential failure points. Essential for supply chain management, organizational design, and relationship building. Consider both the benefits and risks of interdependent relationships.",
+    "examples": [
+      "Strategic Thinking: Understanding how business ecosystem health affects your own success",
+      "Business & Career: Building mutually beneficial relationships rather than purely extractive ones",
+      "Communication & Influence: Recognizing that your success depends partly on others' success",
+      "Product & Design: Designing systems that work well with other systems and platforms"
+    ],
+    "quote": "It is not the similarity or dissimilarity of individuals that constitutes a group, but interdependence of fate. - Kurt Lewin",
+    "relatedModels": [
+      "specialization",
+      "network-effects"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "efficiency",
+    "name": "Efficiency",
+    "oneLiner": "Getting maximum output with minimum waste of resources",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Productivity & Focus",
+      "Strategic Thinking",
+      "Business & Career"
+    ],
+    "definition": "Efficiency is about optimizing the ratio of useful output to total input, minimizing waste of time, energy, money, or materials. Economic efficiency specifically refers to optimal resource allocation where it's impossible to make someone better off without making someone else worse off (Pareto efficiency).",
+    "summary": "Efficiency sounds obviously good, but it has downsides. Maximum efficiency often reduces redundancy and margins of safety, making systems fragile. A perfectly efficient system has no slack for handling unexpected problems. The most efficient route breaks down when there's traffic. Balance efficiency with resilience, and remember that being efficient at the wrong thing is wasteful.",
+    "whenToUse": "Apply when optimizing processes, allocating resources, or improving performance. Use to eliminate waste and maximize output. Essential for operations, time management, and cost reduction. But consider the trade-off between efficiency and resilience. Sometimes inefficiency provides valuable flexibility.",
+    "examples": [
+      "Productivity & Focus: Streamlining workflows to eliminate unnecessary steps and delays",
+      "Strategic Thinking: Optimizing business processes while maintaining quality and flexibility",
+      "Business & Career: Maximizing the value created per unit of time or effort",
+      "Operations: Reducing waste in manufacturing or service delivery while maintaining reliability"
+    ],
+    "quote": "Markets weed out inefficient processes, but only when no one has sufficient power to manipulate them. - Ha-Joon Chang",
+    "relatedModels": [
+      "optimization",
+      "trade-offs",
+      "margin-of-safety"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "debt",
+    "name": "Debt",
+    "oneLiner": "Borrowing against future resources to access present opportunities",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Business & Career"
+    ],
+    "definition": "Debt is the practice of using resources (usually money) in the present that must be repaid in the future, typically with interest. While debt can enable valuable investments and growth, it also creates obligations and constraints on future actions, requiring careful consideration of costs and benefits.",
+    "summary": "Debt is borrowing from your future self. It can be powerful—enabling education, home ownership, or business growth that wouldn't otherwise be possible. But debt also constrains your future options and compounds over time. The key is using debt for investments that generate returns exceeding the cost of debt, not for consumption that provides temporary benefits. All debt, financial or otherwise, must eventually be repaid.",
+    "whenToUse": "Use when evaluating financing decisions, investment opportunities, or resource allocation over time. Apply to personal finance, business strategy, and project planning. Essential for understanding cash flow, growth strategies, and long-term sustainability. Consider both the enabling power and constraining effects of debt.",
+    "examples": [
+      "Decision Making: Weighing student loans against future earning potential from education",
+      "Strategic Thinking: Using business debt to fund growth that generates higher returns than interest costs",
+      "Business & Career: Understanding how technical debt in software development creates future constraints",
+      "Financial Planning: Balancing mortgage payments against rent and investment opportunities"
+    ],
+    "quote": "Debt defines your future, and when your future is defined, hope begins to die. - Kent Nerburn",
+    "relatedModels": [
+      "opportunity-cost"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "monopoly-and-competition",
+    "name": "Monopoly and Competition",
+    "oneLiner": "Markets with one dominant player versus many competitors create different opportunities and constraints",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Decision Making"
+    ],
+    "definition": "Monopoly exists when a single entity controls a market with no close substitutes, while competition involves multiple entities vying for the same customers. Each creates different dynamics: monopolies can generate high profits but may lack innovation incentives, while competition drives efficiency and innovation but can reduce profits.",
+    "summary": "Monopolies seem bad for consumers but can drive innovation by providing high rewards for breakthrough discoveries. Competition seems good but can lead to commoditization and reduced profits. The key insight is that different market structures create different incentives and outcomes. Understanding which structure you're in helps determine strategy. Winner-takes-all markets naturally tend toward monopoly.",
+    "whenToUse": "Apply when developing business strategy, choosing markets to enter, or understanding competitive dynamics. Use to identify market opportunities and threats. Essential for entrepreneurs, investors, and strategic planners. Consider whether you're creating defensible competitive advantages or operating in commodity markets.",
+    "examples": [
+      "Strategic Thinking: Building network effects or switching costs to create competitive moats",
+      "Business & Career: Developing unique skills that are hard to replicate or replace",
+      "Decision Making: Choosing to compete in markets where you can differentiate rather than commodity markets",
+      "Product & Design: Creating products that become more valuable as more people use them"
+    ],
+    "quote": "Competition is for losers. - Peter Thiel",
+    "relatedModels": [
+      "creative-destruction",
+      "network-effects"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "creative-destruction",
+    "name": "Creative Destruction",
+    "oneLiner": "Innovation destroys old ways of doing things while creating new value",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Creativity & Innovation",
+      "Problem Solving"
+    ],
+    "definition": "Creative Destruction is the process by which new innovations and technologies make existing products, services, or business models obsolete. While this destruction can be painful for those invested in the old ways, it drives progress by allocating resources to more productive uses and creating new opportunities.",
+    "summary": "Creative destruction is innovation's dark side. Every new technology or business model that succeeds destroys something else. Smartphones destroyed cameras, GPS devices, and music players while creating new industries. The process is creative because it generates new value, but destructive because it eliminates old value. Understanding this helps navigate change and spot opportunities.",
+    "whenToUse": "Apply when evaluating new technologies, planning business strategy, or understanding industry changes. Use to identify threats to existing business models and opportunities from emerging trends. Essential for innovation, strategic planning, and career development in changing industries.",
+    "examples": [
+      "Strategic Thinking: Recognizing when your industry faces disruption and adapting accordingly",
+      "Creativity & Innovation: Using new technologies to create better solutions that make old ones obsolete",
+      "Problem Solving: Understanding that solving problems often requires abandoning current approaches",
+      "Business & Career: Developing skills that create value in new paradigms rather than defending old ones"
+    ],
+    "quote": "The opening up of new markets and the organizational development... illustrate the process of industrial mutation that incessantly revolutionizes the economic structure from within. - Joseph Schumpeter",
+    "relatedModels": [
+      "monopoly-and-competition"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "gresham’s-law",
+    "name": "Gresham’s Law",
+    "oneLiner": "Bad money drives out good money when people can't distinguish quality differences",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "Gresham's Law states that when two forms of money are in circulation and legally required to be accepted at equal value, but have different intrinsic values, people will hoard the more valuable money and spend the less valuable money. This principle extends beyond currency to any situation where quality differences exist but aren't easily apparent.",
+    "summary": "Originally about currency, Gresham's Law applies whenever quality differences exist but aren't obvious. People keep the good stuff and pass along the bad stuff when they can't tell the difference or are treated the same. This creates a race to the bottom unless quality can be distinguished and rewarded. The law reveals how asymmetric information creates market failures.",
+    "whenToUse": "Apply when quality differences exist but aren't easily observable. Use to understand market dynamics where information asymmetries exist. Essential for understanding why quality sometimes deteriorates and how to prevent races to the bottom. Consider how to make quality differences visible and rewarded.",
+    "examples": [
+      "Decision Making: Understanding why online marketplaces sometimes see quality decline without proper quality signals",
+      "Strategic Thinking: Creating ways to distinguish high-quality offerings from low-quality competitors",
+      "Problem Solving: Addressing situations where good performers are leaving because they're not differentiated from poor performers",
+      "Business & Career: Ensuring high-quality work is recognized and rewarded to prevent talent flight"
+    ],
+    "quote": "Bad money drives out good money. - Thomas Gresham",
+    "relatedModels": [
+      "information-asymmetry"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "bubbles",
+    "name": "Bubbles",
+    "oneLiner": "Asset prices that rise far above fundamental value due to speculation and herd behavior",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Problem Solving"
+    ],
+    "definition": "Economic bubbles occur when asset prices rise dramatically above their intrinsic value, driven by speculation, herd behavior, and excessive optimism. Bubbles always eventually burst, causing prices to crash and creating significant economic disruption for those caught in the collapse.",
+    "summary": "Bubbles form when people buy assets not for their intrinsic value but because they expect prices to keep rising. This creates self-reinforcing cycles—higher prices attract more buyers, which drives prices higher, until reality eventually intervenes. Bubbles are dangerous because they misallocate resources and create false wealth that disappears when they pop.",
+    "whenToUse": "Apply when evaluating investments, market trends, or any situation involving rapid price increases. Use to identify potentially overvalued assets or markets driven more by hype than fundamentals. Essential for investment decisions, business planning, and avoiding speculative traps. Look for disconnects between price and underlying value.",
+    "examples": [
+      "Decision Making: Recognizing when investment markets are driven more by speculation than fundamentals",
+      "Strategic Thinking: Avoiding business strategies based on unsustainable market conditions",
+      "Problem Solving: Understanding when rapid growth or success might be based on temporary factors rather than sustainable advantages"
+    ],
+    "quote": "The four most dangerous words in investing are: 'This time is different.' - Sir John Templeton",
+    "relatedModels": [
+      "interdependence"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "audience",
+    "name": "Audience",
+    "oneLiner": "Understanding and engaging the right audience shapes the appreciation and impact of your work",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Communication & Influence",
+      "Product & Design",
+      "Strategic Thinking"
+    ],
+    "definition": "Audience refers to the group of people who engage with and experience a work of art, message, or product. They shape how the content is received, interpreted, and valued through their cultural context, preferences, and responses.",
+    "summary": "The audience is not passive—they actively participate in shaping meaning and value. Artists, speakers, and creators must understand their audience's expectations, cultural background, and preferences to create resonating work. The relationship is reciprocal: audiences influence creators as much as creators influence audiences.",
+    "whenToUse": "Use when creating content, products, or messages. Research your target audience's demographics, preferences, and cultural context. Tailor your approach while staying authentic. Consider both direct and indirect audiences who might encounter your work.",
+    "examples": [
+      "Communication & Influence: Public speakers adjusting their message based on audience demographics and values",
+      "Product & Design: Companies designing products for specific user segments",
+      "Strategic Thinking: Lawyers tailoring arguments to judges vs. juries based on what will be most persuasive"
+    ],
+    "quote": "Music is not a series of acoustic facts. [It] emerges from a collaboration in which the listener too plays an active part. - Philip Ball",
+    "relatedModels": [
+      "framing",
+      "genre"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "genre",
+    "name": "Genre",
+    "oneLiner": "Genres provide frameworks for creating and interpreting work while enabling creative innovation",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Creativity & Innovation",
+      "Communication & Influence",
+      "Product & Design"
+    ],
+    "definition": "Genre represents categories or styles that carry shared conventions, expectations, and aesthetic forms. They guide both creators in production and audiences in interpretation, serving as a \"contract\" between creator and consumer about what to expect.",
+    "summary": "Genres are powerful organizing principles that set expectations and provide creative constraints. They help audiences quickly understand what they're engaging with while giving creators proven frameworks to build upon. The most interesting work often plays with or subverts genre conventions, creating new possibilities through creative tension.",
+    "whenToUse": "Apply when creating content, products, or communications to set appropriate expectations. Use genre conventions as starting points, then innovate within or across genres for unique impact. Understand your industry's \"genres\" to position your work effectively.",
+    "examples": [
+      "Creativity & Innovation: Mixing genres like sci-fi romance to create unique emotional impact",
+      "Product & Design: Understanding product categories to innovate at the intersections",
+      "Communication & Influence: Using familiar formats while adding surprising elements to capture attention"
+    ],
+    "quote": "Genre is a set of assumptions, a loose contract between the creator and the audience. - Neil Gaiman",
+    "relatedModels": [
+      "audience",
+      "framing"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "contrast",
+    "name": "Contrast",
+    "oneLiner": "Contrast draws attention and enhances impact through the strategic use of differences",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Product & Design",
+      "Communication & Influence",
+      "Creativity & Innovation"
+    ],
+    "definition": "Contrast involves juxtaposing different elements—colors, shapes, sounds, ideas, or concepts—to create emphasis, interest, and meaning. It works by making differences apparent, which naturally draws human attention and creates emotional response.",
+    "summary": "Contrast is fundamental to how we perceive and understand the world. Our brains are wired to notice differences, making contrast a powerful tool for directing attention and creating impact. It can be visual, conceptual, emotional, or structural. The key is using contrast purposefully rather than accidentally.",
+    "whenToUse": "Use contrast to highlight important elements, create visual or conceptual hierarchy, and evoke emotional responses. Apply in design, communication, and problem-solving to make key points stand out. Balance contrast to avoid overwhelming your audience.",
+    "examples": [
+      "Product & Design: Using light and dark colors in interfaces to guide user attention to key actions",
+      "Communication & Influence: Contrasting statistics or examples to emphasize points in presentations",
+      "Creativity & Innovation: Juxtaposing unexpected elements to create memorable and impactful experiences"
+    ],
+    "quote": "Darkness helps us understand light. Winter makes us appreciate spring. Contrast gives meaning to existence. - Design principle",
+    "relatedModels": [
+      "framing",
+      "rhythm"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "framing",
+    "name": "Framing",
+    "oneLiner": "How something is framed shapes its meaning, interpretation, and impact",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Decision Making"
+    ],
+    "definition": "Framing is the act of selecting and presenting information or elements within a boundary to shape interpretation and meaning. It determines what gets included and excluded, fundamentally influencing how people perceive and respond to information.",
+    "summary": "Framing is everywhere—from literal picture frames to how news stories are presented. It's about choosing what to show and what to leave out, which inevitably shapes understanding. Good framing helps focus attention on what matters most, while poor framing can mislead or confuse. Understanding framing helps you both create and critically evaluate information.",
+    "whenToUse": "Use framing to influence how audiences perceive messages, products, or situations. Be intentional about what you include and exclude. Consider multiple frames for the same content to find the most effective approach. Always ask: \"What's being left out of this frame?\"",
+    "examples": [
+      "Strategic Thinking: Positioning business challenges as opportunities rather than problems",
+      "Communication & Influence: News organizations framing stories to evoke specific emotional responses",
+      "Decision Making: Presenting data in ways that highlight different conclusions or actions needed"
+    ],
+    "quote": "A good photograph is knowing where to stand. - Ansel Adams",
+    "relatedModels": [
+      "audience",
+      "context"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "rhythm",
+    "name": "Rhythm",
+    "oneLiner": "Rhythm organizes experience through patterns that influence mood, attention, and behavior",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Productivity & Focus",
+      "Communication & Influence",
+      "Behavior & Habits"
+    ],
+    "definition": "Rhythm is the pattern of sounds, movements, events, or activities that create a sense of flow, timing, and structure. It exists in music, speech, work, and daily life, providing predictable patterns that help organize experience and influence emotional states.",
+    "summary": "Rhythm is fundamental to human experience—from our heartbeat and circadian rhythms to the patterns in our work and communication. It creates expectations, builds momentum, and can dramatically influence mood and engagement. Understanding rhythm helps you design experiences that feel natural and compelling.",
+    "whenToUse": "Use rhythm to structure presentations, work schedules, and communications for maximum impact. Vary rhythm to create interest—alternate between fast and slow, intense and calm. Pay attention to natural rhythms in your environment and work with them rather than against them.",
+    "examples": [
+      "Productivity & Focus: Structuring work in focused sprints with breaks to maintain peak performance",
+      "Communication & Influence: Using rhythmic speech patterns to make presentations more engaging and memorable",
+      "Behavior & Habits: Establishing daily routines that create sustainable rhythms for optimal performance"
+    ],
+    "quote": "We are products of rhythm. - African proverb",
+    "relatedModels": [
+      "audience",
+      "context"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "melody",
+    "name": "Melody",
+    "oneLiner": "Melody is the memorable sequence that carries emotional meaning and creates lasting impact",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Communication & Influence",
+      "Creativity & Innovation",
+      "Learning & Knowledge"
+    ],
+    "definition": "Melody is a sequence of musical notes perceived as a single entity that often forms the main theme of a piece. More broadly, it represents the main \"thread\" or memorable elements that carry the core message or emotional content of any communication or experience.",
+    "summary": "Melody is what makes music memorable and emotionally powerful—it's the part you hum afterward. In broader applications, \"melody\" represents the main thread that carries meaning through any experience. It's about creating coherent, memorable sequences that resonate emotionally with your audience.",
+    "whenToUse": "Focus on creating clear, memorable \"melodies\" in your communications, products, and experiences. Identify the core thread that will carry your main message or value. Make it emotionally resonant and easy to remember and share.",
+    "examples": [
+      "Communication & Influence: Crafting speeches or presentations with memorable phrases or themes that audiences remember",
+      "Creativity & Innovation: Designing product experiences with clear, enjoyable user journeys",
+      "Learning & Knowledge: Structuring educational content around memorable core concepts that learners can easily recall"
+    ],
+    "quote": "Melody is the soul of music. - Traditional wisdom",
+    "relatedModels": [
+      "rhythm"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "representation",
+    "name": "Representation",
+    "oneLiner": "How we represent ideas shapes understanding and reveals deeper meanings and cultural values",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Learning & Knowledge"
+    ],
+    "definition": "Representation involves the choices artists and communicators make in depicting subjects, ideas, or emotions. These choices are never neutral—they reflect cultural values, personal perspectives, and intended messages, often revealing more than what's literally shown.",
+    "summary": "Representation is never just about accuracy—it's about choice and perspective. Every representation includes some things and excludes others, emphasizing certain aspects while downplaying others. Understanding representation helps you see beyond surface appearances to understand deeper meanings, biases, and intentions.",
+    "whenToUse": "Analyze the choices in any representation to understand underlying messages and perspectives. When creating your own representations, be intentional about what you emphasize, include, or exclude. Consider how cultural context shapes both creation and interpretation of representations.",
+    "examples": [
+      "Strategic Thinking: Understanding how different stakeholders represent the same business situation differently",
+      "Communication & Influence: Recognizing how media representations shape public opinion and discourse",
+      "Learning & Knowledge: Seeing how textbooks and educational materials reflect particular cultural viewpoints and values"
+    ],
+    "quote": "Art is the lie that enables us to realize the truth. - Pablo Picasso",
+    "relatedModels": [
+      "framing"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "plot",
+    "name": "Plot",
+    "oneLiner": "Plot structures the sequence of events to create meaning, engagement, and desired outcomes",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Problem Solving"
+    ],
+    "definition": "Plot is the sequence of events that make up a narrative, but more broadly, it's about how events are structured and connected to create meaning, build tension, and drive toward resolution. It applies to stories, presentations, projects, and strategic plans.",
+    "summary": "Good plots aren't just chronological sequences—they're carefully structured to create engagement, build momentum, and deliver satisfying conclusions. Plot thinking helps you organize complex information, maintain audience attention, and drive toward clear outcomes. Every good plot has setup, development, and resolution.",
+    "whenToUse": "Use plot structure when planning presentations, projects, or communications. Start with strong setup, build tension or interest through development, and provide satisfying resolution. Consider your audience's journey and what they need at each stage.",
+    "examples": [
+      "Strategic Thinking: Structuring business presentations with clear problem setup, solution development, and implementation resolution",
+      "Communication & Influence: Organizing speeches with compelling opening, logical development, and memorable conclusion",
+      "Problem Solving: Approaching complex projects with clear phases that build toward final resolution"
+    ],
+    "quote": "The plot is what happens. - Aristotle",
+    "relatedModels": [
+      "character"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "character",
+    "name": "Character",
+    "oneLiner": "Characters embody the human elements that drive engagement, relatability, and emotional connection",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Communication & Influence",
+      "Strategic Thinking",
+      "Learning & Knowledge"
+    ],
+    "definition": "Character refers to the individuals or personas that drive narratives and create emotional connections. More broadly, it represents the human elements—motivations, personalities, relationships—that make any communication or experience relatable and compelling.",
+    "summary": "Characters are what make us care about stories, products, and ideas. They provide the human element that creates emotional investment and understanding. Good character development—whether in stories, brands, or personal communication—creates authenticity, relatability, and emotional resonance.",
+    "whenToUse": "Develop clear, authentic \"characters\" in your communications and offerings. Understand the motivations, backgrounds, and perspectives of your audience as characters in their own stories. Use character thinking to make abstract concepts more relatable and human.",
+    "examples": [
+      "Communication & Influence: Creating customer personas that help teams understand and serve their audience better",
+      "Strategic Thinking: Understanding different stakeholders as characters with distinct motivations and concerns",
+      "Learning & Knowledge: Using case studies and examples that feature relatable characters to make concepts more memorable"
+    ],
+    "quote": "Character is destiny. - Heraclitus",
+    "relatedModels": [
+      "plot"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "setting",
+    "name": "Setting",
+    "oneLiner": "Setting provides the context and environment that shapes how everything else is perceived and experienced",
+    "category": "Art",
+    "domains": [
+      "Art"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Product & Design"
+    ],
+    "definition": "Setting is the time, place, and environment in which events occur. It provides context that shapes interpretation, creates atmosphere, and influences how all other elements are perceived and experienced. Setting includes physical, cultural, and temporal dimensions.",
+    "summary": "Setting is never just background—it actively shapes meaning and experience. The same conversation, product, or idea can be completely different depending on its setting. Understanding setting helps you choose appropriate contexts for maximum impact and recognize how context influences interpretation.",
+    "whenToUse": "Choose settings carefully for important communications, launches, or decisions. Consider how physical, cultural, and temporal context will influence reception. Adapt your approach based on the setting you're operating in. Create settings that support your desired outcomes.",
+    "examples": [
+      "Strategic Thinking: Choosing appropriate venues and timing for important business meetings or product launches",
+      "Communication & Influence: Understanding how cultural and social settings affect message reception and interpretation",
+      "Product & Design: Designing products and experiences that work well in their intended environments and contexts"
+    ],
+    "quote": "Setting is character. - Literary principle",
+    "relatedModels": [
+      "representation"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "feedback-loops",
+    "name": "Feedback Loops",
+    "oneLiner": "Systems adjust and learn through information returned from their own outputs",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Systems Thinking"
+    ],
+    "definition": "Feedback loops occur when outputs of a system are routed back as inputs, creating cycles that influence future behavior. They can be reinforcing (amplifying) or balancing (stabilizing) loops that drive system dynamics.",
+    "summary": "Feedback loops are fundamental to how systems behave, evolve, and maintain stability. They drive everything from biological processes to business growth. Understanding them helps you design better systems and anticipate how changes will ripple through interconnected processes.",
+    "whenToUse": "Apply when monitoring performance, adapting to changing environments, or improving systems. Look for both intended and unintended feedback in your decisions. Use to create virtuous cycles and break vicious ones.",
+    "examples": [
+      "Business & Career: Customer reviews improving product quality",
+      "Strategic Thinking: Market responses to pricing changes",
+      "Decision Making: Personal habits reinforcing or breaking through feedback"
+    ],
+    "quote": "The key to growth is the ability to change based on feedback. - James Clear",
+    "relatedModels": [
+      "homeostasis",
+      "second-order-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "equilibrium",
+    "name": "Equilibrium",
+    "oneLiner": "A stable state where opposing forces balance and no net change occurs",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Systems Thinking",
+      "Decision Making"
+    ],
+    "definition": "Equilibrium is the state where all forces acting on a system are balanced, resulting in stability. Systems naturally tend toward equilibrium, but perfect balance is rare in complex systems - most operate in dynamic equilibrium with constant small adjustments.",
+    "summary": "Equilibrium represents both stability and potential stagnation. While it provides predictability, it can also prevent necessary change and growth. Understanding equilibrium helps you recognize when systems need disruption to progress and when stability should be maintained.",
+    "whenToUse": "Use to identify stable states in business or personal situations. Recognize when equilibrium is beneficial for consistency and when disruption is needed for growth. Apply when designing sustainable systems and processes.",
+    "examples": [
+      "Strategic Thinking: Economic markets balancing supply and demand",
+      "Business & Career: Work-life balance requiring constant adjustment",
+      "Decision Making: Investment portfolios balancing risk and return"
+    ],
+    "quote": "In the midst of movement and chaos, keep stillness inside of you. - Deepak Chopra",
+    "relatedModels": [
+      "feedback-loops",
+      "homeostasis"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "bottlenecks",
+    "name": "Bottlenecks",
+    "oneLiner": "The slowest component determines the system's overall performance and limits output",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Systems Thinking",
+      "Productivity & Focus"
+    ],
+    "definition": "Bottlenecks are constraints in a system that limit throughput, causing delays and inefficiencies. They represent the weakest link that determines overall system performance, creating backlogs upstream and starving downstream processes.",
+    "summary": "Bottlenecks are inevitable in any system - eliminating one often reveals another. The key insight is that optimizing non-bottleneck components is wasteful. Focus all improvement efforts on the bottleneck for maximum system impact, but prepare for bottlenecks to shift as you improve them.",
+    "whenToUse": "Focus improvement efforts exclusively on bottleneck identification and resolution. Use when optimizing processes, managing projects, or scaling operations. Always ask: \"What's the limiting factor?\" and direct resources there first.",
+    "examples": [
+      "Productivity & Focus: Manufacturing production lines limited by slowest machine",
+      "Strategic Thinking: Decision-making processes slowed by approval bottlenecks",
+      "Business & Career: Customer service limited by response capacity"
+    ],
+    "quote": "A chain is only as strong as its weakest link. - Traditional Proverb",
+    "relatedModels": [
+      "optimizations"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "scale",
+    "name": "Scale",
+    "oneLiner": "System properties and behaviors change fundamentally as size increases or decreases",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Systems Thinking",
+      "Business & Career"
+    ],
+    "definition": "Scale examines how increasing or decreasing system size affects behavior, complexity, and function - often in non-linear ways. What works at small scale may fail at large scale, and vice versa.",
+    "summary": "Scaling is never just multiplication - it fundamentally changes how systems work. Small systems can be nimble but fragile; large systems can be powerful but complex. Understanding scale helps anticipate what will break, what new capabilities emerge, and what trade-offs are necessary as systems grow or shrink.",
+    "whenToUse": "Apply when planning growth, downsizing, or entering new markets. Consider how current processes will work at different scales. Use to anticipate scaling challenges and prepare for non-linear effects of size changes.",
+    "examples": [
+      "Strategic Thinking: Startup management versus large corporation dynamics",
+      "Business & Career: Personal productivity methods that break down with team growth",
+      "Systems Thinking: City infrastructure needs changing with population growth"
+    ],
+    "quote": "Scale changes everything. - Systems principle",
+    "relatedModels": [
+      "economies-of-scale"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "margin-of-safety",
+    "name": "Margin of Safety",
+    "oneLiner": "Build extra capacity beyond minimum requirements to handle unexpected stress",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Business & Career"
+    ],
+    "definition": "Margin of safety is the buffer between system capacity and expected demands. It's the extra strength built into bridges, the cash reserves in business, or the time buffer in project planning to handle unexpected challenges.",
+    "summary": "Margin of safety protects against the inevitable surprises and uncertainties of complex systems. While it requires extra resources upfront, it prevents catastrophic failures and provides options when things go wrong. The challenge is balancing safety with efficiency and avoiding overconfidence that leads to risk compensation.",
+    "whenToUse": "Use when stakes are high and failure is costly. Build buffers in financial planning, project timelines, and critical systems. Apply when uncertainty is high and you need resilience over efficiency.",
+    "examples": [
+      "Strategic Thinking: Financial emergency funds for unexpected expenses",
+      "Business & Career: Project timelines with buffer time for unforeseen delays",
+      "Decision Making: Investment diversification to protect against market volatility"
+    ],
+    "quote": "It is better to be roughly right than precisely wrong. - Warren Buffett",
+    "relatedModels": [
+      "churn"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "churn",
+    "name": "Churn",
+    "oneLiner": "System components constantly wear out, leave, or need replacement - this attrition is inevitable",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Business & Career",
+      "Strategic Thinking"
+    ],
+    "definition": "Churn represents the natural process of components leaving or wearing out in systems, whether customers leaving, employees departing, or equipment breaking down. It's the inevitable turnover that requires constant renewal and replacement.",
+    "summary": "Churn is a natural part of all living systems - the question isn't whether it will happen, but how to manage it effectively. Some churn is healthy, bringing in fresh perspectives and preventing stagnation. The key is understanding optimal churn rates and having systems for renewal and replacement.",
+    "whenToUse": "Monitor churn rates to understand system health. Plan for replacement and renewal processes. Use to identify when churn is beneficial versus destructive. Focus on retention where it matters and embrace healthy turnover elsewhere.",
+    "examples": [
+      "Business & Career: Customer retention programs managing subscriber churn",
+      "Strategic Thinking: Employee turnover bringing fresh ideas while maintaining institutional knowledge",
+      "Systems Thinking: Biological cell renewal maintaining healthy organisms"
+    ],
+    "quote": "Change is the only constant in life. - Heraclitus",
+    "relatedModels": [
+      "margin-of-safety"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "algorithms",
+    "name": "Algorithms",
+    "oneLiner": "Step-by-step procedures that reliably transform inputs into desired outputs",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Problem Solving",
+      "Productivity & Focus"
+    ],
+    "definition": "Algorithms are systematic sets of rules or procedures that, when followed precisely, solve problems or complete tasks. They provide reliable, repeatable methods for achieving consistent results regardless of who implements them.",
+    "summary": "Algorithms turn chaos into order by providing clear, unambiguous instructions. They're powerful because they make expertise transferable and results predictable. Good algorithms eliminate guesswork and enable scaling. The key is creating algorithms that are robust enough to handle variations while remaining simple enough to follow.",
+    "whenToUse": "Use when you need consistent, repeatable results. Apply to standardize successful processes, delegate effectively, or scale operations. Create algorithms for decision-making, problem-solving, and routine tasks.",
+    "examples": [
+      "Problem Solving: Cooking recipes providing consistent results",
+      "Decision Making: Investment criteria for evaluating opportunities",
+      "Productivity & Focus: Morning routines optimizing daily performance"
+    ],
+    "quote": "An algorithm must be seen to be believed. - Donald Knuth",
+    "relatedModels": [
+      "complex-adaptive-systems"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "complex-adaptive-systems",
+    "name": "Complex Adaptive Systems",
+    "oneLiner": "Systems where simple components following basic rules create complex, unpredictable emergent behaviors",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Strategic Thinking",
+      "Decision Making"
+    ],
+    "definition": "Complex Adaptive Systems are networks of many interconnected parts that adapt and evolve based on experience, creating emergent properties that can't be predicted from studying individual components. Examples include ecosystems, markets, and organizations.",
+    "summary": "CAS teaches us that complex behaviors emerge from simple interactions, making prediction difficult but pattern recognition valuable. These systems are simultaneously robust and fragile - resilient to some changes while vulnerable to others. You can't control them directly but can influence conditions and nudge toward desired outcomes.",
+    "whenToUse": "Use when dealing with organizations, markets, or social systems. Focus on creating conditions rather than controlling outcomes. Look for patterns and feedback loops. Expect unintended consequences and embrace experimentation with rapid feedback.",
+    "examples": [
+      "Strategic Thinking: Market dynamics emerging from individual trading decisions",
+      "Decision Making: Organizational culture arising from individual interactions",
+      "Systems Thinking: Traffic patterns emerging from individual driving choices"
+    ],
+    "quote": "The whole is greater than the sum of its parts. - Aristotle",
+    "relatedModels": [
+      "emergence"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "critical-mass",
+    "name": "Critical Mass",
+    "oneLiner": "The minimum amount needed to trigger self-sustaining change or growth",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Communication & Influence"
+    ],
+    "definition": "Critical mass is the threshold point where a system transitions from one state to another. Once reached, change becomes self-reinforcing and sustainable without continued external input. It's the tipping point where momentum takes over.",
+    "summary": "Critical mass reminds us that change often appears gradual then sudden. Most effort goes into reaching the threshold - once crossed, systems can change rapidly and dramatically. Understanding critical mass helps focus efforts on the most leveraged interventions rather than spreading resources too thin.",
+    "whenToUse": "Apply when trying to create sustainable change in organizations or markets. Focus initial efforts on reaching threshold rather than optimizing beyond it. Use to understand when movements, products, or ideas will become self-sustaining.",
+    "examples": [
+      "Strategic Thinking: Network effects in social platforms growing exponentially after user threshold",
+      "Communication & Influence: Social movements reaching tipping point for widespread adoption",
+      "Decision Making: Investment in new technologies becoming viable after market adoption"
+    ],
+    "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world. - Margaret Mead",
+    "relatedModels": [
+      "network-effects"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "emergence",
+    "name": "Emergence",
+    "oneLiner": "Complex wholes exhibiting properties and behaviors not present in their individual parts",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Creativity & Innovation",
+      "Strategic Thinking"
+    ],
+    "definition": "Emergence occurs when a system displays properties, behaviors, or phenomena that arise from but cannot be reduced to the interactions of its parts. The whole becomes qualitatively different from the sum of its components.",
+    "summary": "Emergence teaches us that the most interesting and valuable properties of systems often can't be predicted or engineered directly. They arise spontaneously from the interactions of simpler components. This means you can't understand complex systems by studying parts in isolation - you must observe the whole.",
+    "whenToUse": "Use when designing organizations, products, or strategies. Focus on creating conditions for positive emergence rather than trying to control outcomes directly. Look for emergent patterns and leverage them.",
+    "examples": [
+      "Creativity & Innovation: Breakthrough innovations emerging from team collaboration",
+      "Strategic Thinking: Company culture emerging from individual interactions and policies",
+      "Systems Thinking: Intelligence emerging from neural network interactions"
+    ],
+    "quote": "The best way to think about emergence is that it's a kind of creativity of the universe. - Stuart Kauffman",
+    "relatedModels": [
+      "complex-adaptive-systems"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "chaos-dynamics",
+    "name": "Chaos Dynamics",
+    "oneLiner": "Small changes in complex systems can produce dramatically different outcomes over time",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Strategic Thinking",
+      "Decision Making"
+    ],
+    "definition": "Chaos dynamics describes systems where tiny differences in initial conditions lead to vastly different outcomes, making long-term prediction impossible even when the system follows deterministic rules. This is the butterfly effect in action.",
+    "summary": "Chaos dynamics reveals the limits of prediction and control in complex systems. While we can understand the rules, we can't predict specific outcomes. This doesn't mean randomness - chaotic systems have underlying order, but they're extremely sensitive to initial conditions and external influences.",
+    "whenToUse": "Use when dealing with highly complex, interconnected systems. Focus on building resilience rather than trying to predict specific outcomes. Prepare for multiple scenarios. Recognize when small interventions might have large effects.",
+    "examples": [
+      "Strategic Thinking: Weather prediction becoming unreliable beyond several days",
+      "Decision Making: Stock market behavior following patterns but being unpredictable",
+      "Systems Thinking: Population dynamics in ecosystems showing sensitive dependence"
+    ],
+    "quote": "Chaos was the law of nature; Order was the dream of man. - Henry Adams",
+    "relatedModels": [
+      "butterfly-effect"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "irreducibility",
+    "name": "Irreducibility",
+    "oneLiner": "Some systems cannot be simplified without losing their essential properties or functions",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Problem Solving",
+      "Strategic Thinking"
+    ],
+    "definition": "Irreducibility means certain systems, concepts, or phenomena cannot be broken down into simpler parts without losing what makes them fundamentally work. They must be understood and dealt with as wholes.",
+    "summary": "Irreducibility challenges reductionist thinking by showing that some things genuinely require holistic understanding. You can't understand consciousness by studying neurons alone, or organizational effectiveness by analyzing individual roles. Some properties only exist at the system level.",
+    "whenToUse": "Apply when dealing with complex systems that resist simple solutions. Recognize when problems require holistic rather than reductionist approaches. Use when designing systems that need to maintain essential properties while being simplified.",
+    "examples": [
+      "Problem Solving: Organizational culture requiring holistic change rather than piecemeal fixes",
+      "Strategic Thinking: Brand identity needing consistent whole rather than separate component optimization",
+      "Systems Thinking: Living organisms losing essential properties when reduced to chemical components"
+    ],
+    "quote": "Everything should be made as simple as possible, but not simpler. - Albert Einstein",
+    "relatedModels": [
+      "emergence"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "the-law-of-diminishing-returns",
+    "name": "The Law of Diminishing Returns",
+    "oneLiner": "Additional inputs yield progressively smaller improvements until they become counterproductive",
+    "category": "Systems",
+    "domains": [
+      "Systems"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Productivity & Focus"
+    ],
+    "definition": "The Law of Diminishing Returns states that increasing inputs to a system initially increases output, but each additional unit of input produces less additional output. Eventually, more input can actually decrease total output.",
+    "summary": "Diminishing returns explains why optimization has limits and why \"more\" isn't always better. It helps identify when to stop investing additional resources and when to find entirely new approaches. The law applies to effort, time, money, and virtually any resource allocation decision.",
+    "whenToUse": "Use to optimize resource allocation and recognize when to stop improving current approaches. Apply when deciding between incremental improvements versus breakthrough innovations. Help determine optimal stopping points for projects and processes.",
+    "examples": [
+      "Strategic Thinking: Marketing spend producing smaller returns after certain threshold",
+      "Productivity & Focus: Study time improvements plateauing and then declining with exhaustion",
+      "Decision Making: Feature additions making products more complex without proportional benefit"
+    ],
+    "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% accounts for the other 90%. - Tom Cargill",
+    "relatedModels": [
+      "pareto-principle"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "distributions",
+    "name": "Distributions",
+    "oneLiner": "Understanding how values spread and cluster reveals patterns for better prediction and decision-making",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Learning & Knowledge"
+    ],
+    "definition": "Distributions describe how values in a dataset are spread or clustered, revealing patterns about frequency, probability, and variability. Different types of distributions (normal, power law, exponential) indicate different underlying processes and require different strategies.",
+    "summary": "Distributions help us understand and predict patterns in complex systems. Normal distributions suggest stable processes with predictable variations, while power law distributions indicate systems with extreme events and winner-take-all dynamics. Recognizing distribution types guides strategy and risk management.",
+    "whenToUse": "Use when analyzing data, making predictions, or understanding system behavior. Apply to risk assessment, resource allocation, and strategic planning. Recognize which distribution type you're dealing with to set appropriate expectations and strategies.",
+    "examples": [
+      "Strategic Thinking: Understanding wealth follows power law distribution (few extremely wealthy, many with little)",
+      "Decision Making: Recognizing performance often follows normal distribution for fair comparison",
+      "Learning & Knowledge: Identifying rare but high-impact events in long-tail distributions"
+    ],
+    "quote": "All models are wrong, but some are useful. - George Box",
+    "relatedModels": [
+      "network-effects"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "compounding",
+    "name": "Compounding",
+    "oneLiner": "Small, consistent actions accumulate exponentially over time due to effects building on previous effects",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Learning & Knowledge"
+    ],
+    "definition": "Compounding occurs when returns or effects build upon previous returns, creating exponential rather than linear growth. The key insight is that growth accelerates over time as the base becomes larger, making time and consistency more important than magnitude.",
+    "summary": "Compounding is one of the most powerful forces in nature and human systems. It works in both positive and negative directions - good habits compound into excellence while bad habits compound into problems. The magic happens over long time horizons where small differences create massive outcomes.",
+    "whenToUse": "Apply to long-term thinking in investments, learning, relationships, and habit formation. Focus on consistency over intensity. Understand that compound effects are slow initially but accelerate dramatically over time.",
+    "examples": [
+      "Strategic Thinking: Investment returns growing exponentially through reinvestment",
+      "Learning & Knowledge: Skills building upon each other to create expertise",
+      "Decision Making: Daily habits compounding into major life changes over years"
+    ],
+    "quote": "Compound interest is the eighth wonder of the world. - Albert Einstein",
+    "relatedModels": [
+      "network-effects"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "network-effects",
+    "name": "Network Effects",
+    "oneLiner": "System value increases exponentially as more people use it, creating powerful competitive advantages",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Communication & Influence"
+    ],
+    "definition": "Network effects occur when a product or service becomes more valuable as more people use it. Each additional user increases value for all existing users, creating a virtuous cycle that can lead to winner-take-all markets.",
+    "summary": "Network effects create some of the most powerful competitive advantages in business. They're self-reinforcing - success breeds more success. However, they can work in reverse during decline. Understanding network effects helps identify which businesses and strategies can achieve exponential growth and defensible positions.",
+    "whenToUse": "Apply when building platforms, communities, or systems where user interaction creates value. Focus on reaching critical mass of users. Use to evaluate business models and competitive advantages.",
+    "examples": [
+      "Strategic Thinking: Social media platforms becoming more valuable with each user",
+      "Business & Career: Professional networks providing more opportunities as they grow",
+      "Communication & Influence: Communication standards (like email) becoming more useful as adoption spreads"
+    ],
+    "quote": "The network is the computer. - Sun Microsystems",
+    "relatedModels": [
+      "sampling",
+      "equivalence"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "sampling",
+    "name": "Sampling",
+    "oneLiner": "Drawing conclusions from limited data requires understanding how representative your sample is",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Learning & Knowledge",
+      "Strategic Thinking"
+    ],
+    "definition": "Sampling involves selecting a subset of a population to make inferences about the whole. The quality of conclusions depends on sample size, randomness, and representativeness. Poor sampling leads to systematic biases and wrong decisions.",
+    "summary": "Sampling teaches us the importance of data quality over quantity. A large biased sample is worse than a small representative one. Understanding sampling helps evaluate research, make better decisions with limited information, and avoid common biases like availability heuristic and survivorship bias.",
+    "whenToUse": "Use when making decisions with incomplete information. Apply to market research, hiring decisions, and evaluating opportunities. Ensure samples are representative and large enough. Question the sampling methodology behind claims and studies.",
+    "examples": [
+      "Decision Making: Market research using customer surveys to predict broader market response",
+      "Learning & Knowledge: Scientific studies drawing conclusions from participant samples",
+      "Strategic Thinking: Hiring decisions based on interview performance predicting job success"
+    ],
+    "quote": "All generalizations are dangerous, even this one. - Alexandre Dumas",
+    "relatedModels": [
+      "network-effects",
+      "pareto-principle"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "randomness",
+    "name": "Randomness",
+    "oneLiner": "True randomness exists, and apparent patterns may be coincidental rather than meaningful",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Learning & Knowledge"
+    ],
+    "definition": "Randomness represents genuine unpredictability and chance events that cannot be explained by underlying patterns or causes. Our brains are pattern-seeking machines that often see meaningful connections in random events.",
+    "summary": "Randomness challenges our need to find explanations and patterns in everything. Sometimes there is no deeper meaning - events just happen. Understanding randomness helps avoid overconfidence in predictions, reduces the tendency to find patterns where none exist, and promotes intellectual humility.",
+    "whenToUse": "Apply when evaluating streaks, coincidences, and apparent patterns. Use to maintain proper skepticism about predictions and causation claims. Recognize the role of luck in success and failure. Avoid over-interpreting random fluctuations.",
+    "examples": [
+      "Decision Making: Stock market short-term movements often being random rather than predictable",
+      "Strategic Thinking: Business success often involving more luck than skill in timing and circumstances",
+      "Learning & Knowledge: Scientific experiments controlling for random variables to find true effects"
+    ],
+    "quote": "The universe is not only stranger than we imagine, it is stranger than we can imagine. - J.B.S. Haldane",
+    "relatedModels": [
+      "regression-to-the-mean"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "pareto-principle",
+    "name": "Pareto Principle",
+    "oneLiner": "Roughly 80% of effects come from 20% of causes, revealing where to focus efforts for maximum impact",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Productivity & Focus",
+      "Decision Making"
+    ],
+    "definition": "The Pareto Principle, or 80/20 rule, states that a small proportion of inputs often produces a large proportion of outputs. This unequal distribution appears across many domains, suggesting fundamental patterns in how systems organize and produce results.",
+    "summary": "The Pareto Principle reveals that not all efforts are equal - some inputs are dramatically more productive than others. Identifying the vital few among the trivial many allows for massive improvements in efficiency and effectiveness. The specific ratio may not be 80/20, but the principle of unequal distribution is widely applicable.",
+    "whenToUse": "Use to identify high-impact activities and prioritize ruthlessly. Apply to resource allocation, problem-solving, and optimization. Focus on the vital few rather than trying to improve everything equally.",
+    "examples": [
+      "Strategic Thinking: 80% of company revenue often coming from 20% of customers",
+      "Productivity & Focus: 80% of results coming from 20% of activities or efforts",
+      "Decision Making: 80% of problems often caused by 20% of root causes"
+    ],
+    "quote": "The vital few and the trivial many. - Joseph M. Juran",
+    "relatedModels": [
+      "leverage"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "regression-to-the-mean",
+    "name": "Regression to the Mean",
+    "oneLiner": "Extreme outcomes tend to be followed by more moderate ones due to the role of random variation",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Learning & Knowledge"
+    ],
+    "definition": "Regression to the mean describes the tendency for extreme measurements to be closer to the average when measured again. This happens because extreme outcomes often involve some element of luck or random variation that doesn't persist.",
+    "summary": "Regression to the mean helps explain why improvement programs sometimes appear successful when they're just targeting extreme cases that would naturally improve anyway. It also explains why very successful people sometimes have less successful children - extreme success often involves unrepeatable factors.",
+    "whenToUse": "Use when evaluating performance improvements and predicting future outcomes. Be cautious about attributing causation to interventions following extreme results. Expect moderation after extreme success or failure.",
+    "examples": [
+      "Decision Making: Extremely high or low performance often moderating over time",
+      "Strategic Thinking: \"Sophomore slump\" in sports following exceptional rookie seasons",
+      "Learning & Knowledge: Students scoring extremely high or low on tests typically scoring closer to average on retests"
+    ],
+    "quote": "Extraordinary claims require extraordinary evidence. - Carl Sagan",
+    "relatedModels": [
+      "multiplying-by-zero"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "multiplying-by-zero",
+    "name": "Multiplying by Zero",
+    "oneLiner": "One critical failure can eliminate all positive results, making weak links more important than strong ones",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Risk Management"
+    ],
+    "definition": "Multiplying by zero represents situations where one critical failure negates all other successes. In multiplicative systems, having one component fail completely (go to zero) makes the entire system output zero, regardless of how well other components perform.",
+    "summary": "This model highlights the importance of identifying and protecting against single points of failure. In multiplicative systems, your weakest link determines overall success. It's often more valuable to eliminate critical risks than to optimize already strong areas.",
+    "whenToUse": "Apply when identifying potential single points of failure in strategies, operations, or systems. Use to prioritize risk management over optimization. Focus on preventing critical failures rather than maximizing already strong areas.",
+    "examples": [
+      "Strategic Thinking: Business strategy failing if one critical assumption proves wrong",
+      "Decision Making: Investment portfolio losing everything through one catastrophic choice",
+      "Risk Management: Project success requiring all critical components to work properly"
+    ],
+    "quote": "A chain is only as strong as its weakest link. - Traditional Proverb",
+    "relatedModels": [
+      "network-effects",
+      "pareto-principle"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "equivalence",
+    "name": "Equivalence",
+    "oneLiner": "Different approaches or representations can produce the same results, providing multiple paths to solutions",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Learning & Knowledge",
+      "Decision Making",
+      "Problem Solving"
+    ],
+    "definition": "Equivalence means different methods, representations, or approaches can produce identical results or serve the same function. Recognizing equivalence helps find alternative solutions, understand different perspectives, and choose optimal approaches for specific contexts.",
+    "summary": "Equivalence reveals that there are often multiple ways to achieve the same outcome. This provides flexibility, backup options, and opportunities for optimization. Understanding equivalence also helps recognize when apparently different things are actually the same, preventing duplicate efforts and confusion.",
+    "whenToUse": "Use when seeking alternative solutions to problems. Apply to find simpler methods for complex tasks. Recognize equivalent approaches to avoid redundant work. Use to translate between different frameworks or perspectives.",
+    "examples": [
+      "Problem Solving: Multiple mathematical methods producing the same answer",
+      "Decision Making: Different investment strategies achieving similar risk-return profiles",
+      "Learning & Knowledge: Various teaching methods achieving the same learning outcomes"
+    ],
+    "quote": "There are many paths to the top of the mountain, but the view is always the same. - Chinese Proverb",
+    "relatedModels": [
+      "order-of-magnitude"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "order-of-magnitude",
+    "name": "Order of Magnitude",
+    "oneLiner": "Understanding scale differences in powers of ten reveals what matters and what's negligible",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Learning & Knowledge"
+    ],
+    "definition": "Order of magnitude thinking focuses on scale differences measured in powers of ten (10x, 100x, 1000x) rather than precise calculations. This approach quickly identifies what's significant versus what can be ignored in complex problems.",
+    "summary": "Order of magnitude thinking helps distinguish between what matters and what doesn't in complex situations. Small percentage differences rarely matter when facing 10x or 100x scale differences. This thinking speeds up decision-making and helps focus on the variables that actually drive outcomes.",
+    "whenToUse": "Use for quick analysis and prioritization when precise calculations aren't needed. Apply to resource allocation, risk assessment, and strategic planning. Focus on the biggest factors rather than optimizing smaller variables.",
+    "examples": [
+      "Strategic Thinking: Focusing on business opportunities that are 10x larger rather than optimizing 10% improvements",
+      "Decision Making: Considering catastrophic risks (1000x impact) differently than minor inconveniences",
+      "Learning & Knowledge: Understanding scientific scales from atomic to cosmic levels"
+    ],
+    "quote": "It is better to be roughly right than precisely wrong. - John Maynard Keynes",
+    "relatedModels": [
+      "equivalence",
+      "sampling"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "surface-area",
+    "name": "Surface Area",
+    "oneLiner": "The amount of contact or exposure a system has with its environment affects both opportunities and vulnerabilities",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Risk Management",
+      "Productivity & Focus"
+    ],
+    "definition": "Surface area represents how much of a system is exposed to external forces, influences, or interactions. Higher surface area increases both opportunities for beneficial interactions and risks from harmful exposures.",
+    "summary": "Surface area thinking helps balance opportunity and risk. More surface area means more potential for growth and learning but also more complexity and vulnerability. Understanding surface area helps optimize the trade-off between exposure and protection in personal and professional contexts.",
+    "whenToUse": "Apply when evaluating risk exposure and opportunity potential. Use to manage complexity and focus attention. Consider how much surface area you can effectively maintain before diminishing returns set in.",
+    "examples": [
+      "Strategic Thinking: Business partnerships increasing both opportunities and potential conflicts",
+      "Risk Management: Financial exposure across multiple investments versus concentrated positions",
+      "Productivity & Focus: Number of projects affecting ability to execute any single one well"
+    ],
+    "quote": "The more surface area you have, the more you have to defend. - Shane Parrish",
+    "relatedModels": [
+      "chaos-dynamics"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "global-and-local-maxima",
+    "name": "Global and Local Maxima",
+    "oneLiner": "Distinguishing between locally optimal solutions and globally optimal ones prevents getting stuck in suboptimal positions",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Optimization"
+    ],
+    "definition": "Global and local maxima represent the difference between the best possible solution overall (global) versus the best solution within a limited range (local). Systems can get trapped at local maxima that prevent reaching much better global maxima.",
+    "summary": "This model reveals why incremental improvements can sometimes prevent breakthrough solutions. Getting stuck at local maxima is common when optimizing existing approaches rather than exploring fundamentally different ones. Breaking free requires accepting short-term decreases to reach better long-term positions.",
+    "whenToUse": "Use when optimization efforts plateau. Apply to strategic planning and innovation. Recognize when incremental improvements are preventing breakthrough solutions. Be willing to step back from local maxima to find global ones.",
+    "examples": [
+      "Strategic Thinking: Business models that work well locally but prevent better global approaches",
+      "Decision Making: Career paths that optimize current skills versus developing entirely new capabilities",
+      "Optimization: Product features that satisfy current users but prevent attracting much larger markets"
+    ],
+    "quote": "Sometimes you have to take a step back to move forward. - Strategic principle",
+    "relatedModels": [
+      "surface-area",
+      "inversion"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "relativity",
+    "name": "Relativity",
+    "oneLiner": "Your perspective shapes your experience of reality",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Learning & Knowledge"
+    ],
+    "definition": "Relativity shows us that observations depend on the observer's frame of reference. What we perceive as reality is influenced by our position, context, and circumstances. Einstein's relativity teaches us that there's no absolute perspective - everything is relative to the observer.",
+    "summary": "Different perspectives of the same event can all be correct depending on the observer's frame of reference. This teaches us humility about our viewpoints and the importance of seeking multiple perspectives before making judgments. Understanding relativity helps us navigate disagreements and build empathy by recognizing that others' views may be equally valid from their vantage point.",
+    "whenToUse": "Apply when facing conflicts or disagreements - seek to understand others' perspectives. Use in strategic planning to consider multiple stakeholder viewpoints. Essential for cross-cultural communication and team management where different backgrounds create different perspectives.",
+    "examples": [
+      "Strategic Thinking: Understanding how different departments view the same business challenge based on their priorities",
+      "Decision Making: Considering multiple viewpoints before making important choices",
+      "Communication & Influence: Recognizing that your message may be received differently based on audience context"
+    ],
+    "quote": "We are all prisoners of our own experience. - Galileo",
+    "relatedModels": [],
+    "icon": "🧠"
+  },
+  {
+    "id": "reciprocity",
+    "name": "Reciprocity",
+    "oneLiner": "For every action, there is an equal and opposite reaction",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Business & Career"
+    ],
+    "definition": "Reciprocity operates both in physics (Newton's third law) and human relationships. When you apply force to something, it pushes back with equal force. Similarly, when you act positively toward others, you tend to receive positive treatment in return. This principle governs both physical interactions and social dynamics.",
+    "summary": "Reciprocity is fundamental to building relationships and achieving goals. Going positive first and giving before receiving creates virtuous cycles. The principle teaches us that our actions toward others tend to be returned to us, making cooperation and kindness strategic choices, not just moral ones.",
+    "whenToUse": "Use when building relationships, negotiating, or seeking influence. Apply \"go positive and go first\" - be the first to offer help, respect, or consideration. Essential for leadership and teamwork. Practice forgiveness to avoid negative reciprocal cycles.",
+    "examples": [
+      "Business & Career: Building professional networks by helping others before asking for favors",
+      "Strategic Thinking: Creating win-win partnerships where both parties benefit",
+      "Communication & Influence: Using appreciation and recognition to motivate better performance from team members"
+    ],
+    "quote": "Go positive and go first. - Peter D. Kaufman",
+    "relatedModels": [],
+    "icon": "🧠"
+  },
+  {
+    "id": "thermodynamics",
+    "name": "Thermodynamics",
+    "oneLiner": "Energy flows toward equilibrium, and maintaining order requires constant effort",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Productivity & Focus",
+      "Systems Thinking"
+    ],
+    "definition": "Thermodynamics governs energy transfer and the tendency toward entropy (disorder). Energy cannot be created or destroyed, only transformed. All systems move toward equilibrium unless energy is applied to maintain order. This applies to organizations, relationships, and personal productivity.",
+    "summary": "Systems naturally move toward disorder without constant energy input. To maintain order - whether in your workspace, organization, or life - requires ongoing effort and energy. Understanding thermodynamics helps you allocate energy wisely and accept that some entropy is natural and inevitable. Focus energy on what matters most.",
+    "whenToUse": "Apply to resource allocation and energy management. Use to understand why systems decay without maintenance. Essential for organizational design and personal productivity systems. Recognize when to fight entropy and when to accept it as natural.",
+    "examples": [
+      "Strategic Thinking: Understanding that company culture requires constant reinforcement to prevent decay",
+      "Productivity & Focus: Recognizing that organized systems require ongoing maintenance",
+      "Systems Thinking: Anticipating that complex projects will tend toward chaos without active management"
+    ],
+    "quote": "Entropy always increases. - Second Law of Thermodynamics",
+    "relatedModels": [
+      "inertia"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "inertia",
+    "name": "Inertia",
+    "oneLiner": "Objects at rest stay at rest, objects in motion stay in motion",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Behavior & Habits",
+      "Decision Making",
+      "Strategic Thinking"
+    ],
+    "definition": "Inertia is resistance to change in motion. Things that are moving tend to keep moving in the same direction, while things at rest tend to stay at rest. This applies to physical objects, habits, organizations, and beliefs. Changing inertia requires applying force - the more mass, the more force needed.",
+    "summary": "Inertia explains why change is so difficult and why starting is often the hardest part. Once you build momentum, it becomes easier to continue. The key is understanding that overcoming inertia requires more initial energy than maintaining motion. Small, consistent actions can build powerful momentum over time.",
+    "whenToUse": "Use when trying to build new habits or change existing ones. Start with small actions to overcome initial inertia. Apply to organizational change - expect resistance and plan accordingly. Essential for personal development and project management.",
+    "examples": [
+      "Behavior & Habits: Starting with one push-up daily rather than attempting fifty",
+      "Decision Making: Understanding why teams resist new processes even when they're better",
+      "Strategic Thinking: Planning extra resources and time for the initial phase of major initiatives"
+    ],
+    "quote": "A body in motion stays in motion. - Newton's First Law",
+    "relatedModels": [
+      "distributions"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "friction-and-viscosity",
+    "name": "Friction and Viscosity",
+    "oneLiner": "All movement encounters resistance that must be overcome",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Productivity & Focus",
+      "Strategic Thinking",
+      "Systems Thinking"
+    ],
+    "definition": "Friction opposes motion between surfaces in contact, while viscosity is resistance to flow in fluids. Both represent forces that slow down progress and must be overcome to achieve movement. In human systems, friction represents obstacles, bureaucracy, and resistance to change.",
+    "summary": "Understanding friction helps you minimize resistance in your environment and systems. Some friction is necessary (like car brakes), but excessive friction wastes energy and slows progress. The key is identifying unnecessary friction and either removing it or finding ways to work around it.",
+    "whenToUse": "Apply when optimizing processes, workflows, or organizational structures. Use to identify and eliminate unnecessary steps that slow progress. Essential for improving efficiency and reducing wasted effort. Consider both removing friction and adding appropriate force.",
+    "examples": [
+      "Productivity & Focus: Streamlining workflows by removing unnecessary approvals and steps",
+      "Strategic Thinking: Designing systems that minimize bureaucratic friction while maintaining necessary controls",
+      "Systems Thinking: Understanding why information flows slowly in complex organizations"
+    ],
+    "quote": "Friction is the price we pay for motion. - Physics principle",
+    "relatedModels": [
+      "inertia"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "velocity",
+    "name": "Velocity",
+    "oneLiner": "Direction matters more than speed alone",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Productivity & Focus"
+    ],
+    "definition": "Velocity is speed with direction. You can move very fast but make no progress if you're not moving toward your goal. Velocity emphasizes that knowing where you're going is more important than how fast you're moving. Progress requires both speed and the right direction.",
+    "summary": "Many people confuse activity with progress. Velocity teaches us that movement without direction is just motion. Focus on moving consistently toward your goals rather than just staying busy. Sometimes slowing down to ensure you're heading in the right direction is more valuable than moving fast in the wrong direction.",
+    "whenToUse": "Apply when setting and pursuing goals. Use to evaluate whether your activities are moving you toward desired outcomes. Essential for strategic planning and personal productivity. Focus on direction first, then optimize for speed.",
+    "examples": [
+      "Decision Making: Choosing career moves that align with long-term goals rather than just immediate benefits",
+      "Strategic Thinking: Ensuring business activities contribute to core objectives rather than just generating activity",
+      "Productivity & Focus: Prioritizing tasks that move you toward key goals rather than just completing easy tasks"
+    ],
+    "quote": "If you don't know where you're going, any road will take you there. - Lewis Carroll",
+    "relatedModels": [
+      "surface-area",
+      "inversion"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "leverage",
+    "name": "Leverage",
+    "oneLiner": "Small forces, applied correctly, can move large objects",
+    "category": "Physics",
+    "domains": [
+      "Physics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Decision Making"
+    ],
+    "definition": "Leverage allows you to achieve disproportionate results by applying force at the right point. A small input can create a much larger output when applied through the right mechanism. Leverage exists in physical tools, financial instruments, and human systems through knowledge, relationships, and technology.",
+    "summary": "Leverage is about finding ways to multiply your efforts and achieve outsized results. The key is identifying the right leverage points where small changes can create big impacts. Good leverage allows you to do more with less effort, but it can also amplify both gains and losses.",
+    "whenToUse": "Apply when seeking to maximize impact with limited resources. Use to identify high-leverage activities that create disproportionate results. Essential for business strategy and personal productivity. Look for leverage through tools, systems, people, and knowledge.",
+    "examples": [
+      "Strategic Thinking: Using technology to serve many customers with minimal additional cost",
+      "Business & Career: Building expertise in high-demand skills that create career leverage",
+      "Decision Making: Focusing effort on decisions and activities that have cascading positive effects"
+    ],
+    "quote": "Give me a lever long enough and I'll move the world. - Archimedes",
+    "relatedModels": [
+      "force-multiplication",
+      "efficiency",
+      "scale"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "activation-energy",
+    "name": "Activation Energy",
+    "oneLiner": "Every change requires a minimum energy investment to get started",
+    "category": "Chemistry",
+    "domains": [
+      "Chemistry"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Creativity & Innovation",
+      "Strategic Thinking"
+    ],
+    "definition": "Activation energy is the minimum energy needed to initiate a chemical reaction. In human systems, it's the initial effort required to start any change or project. Most people underestimate the activation energy needed and give up before reaching the threshold for sustainable change.",
+    "summary": "Change requires more initial energy than people expect. You need enough activation energy not just to start something, but to sustain it until new patterns are established. Planning for the full energy requirement - not just the initial push - is crucial for success. Many failed change attempts result from insufficient activation energy.",
+    "whenToUse": "Use when planning major changes or new initiatives. Calculate the total energy needed to complete the change, not just start it. Apply to habit formation, business launches, and organizational change. Prepare for the full energy requirement upfront.",
+    "examples": [
+      "Decision Making: Planning sufficient resources to see major projects through to completion",
+      "Creativity & Innovation: Understanding that breakthrough ideas require sustained effort beyond the initial inspiration",
+      "Strategic Thinking: Preparing adequate change management resources for organizational transformations"
+    ],
+    "quote": "It's not the start that matters, it's the finish. - Activation Energy principle",
+    "relatedModels": [
+      "catalysts"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "catalysts",
+    "name": "Catalysts",
+    "oneLiner": "Catalysts speed up change without being consumed in the process",
+    "category": "Chemistry",
+    "domains": [
+      "Chemistry"
+    ],
+    "useCases": [
+      "Creativity & Innovation",
+      "Strategic Thinking",
+      "Productivity & Focus"
+    ],
+    "definition": "Catalysts accelerate reactions without being used up themselves. In human systems, catalysts are people, events, or tools that accelerate change or progress. Good catalysts can dramatically reduce the time and energy needed to achieve results while remaining available for future use.",
+    "summary": "Finding the right catalyst can transform a slow, difficult process into something fast and efficient. Catalysts don't create change - they accelerate change that was already possible. The key is identifying what would serve as an effective catalyst for your specific situation and then introducing it strategically.",
+    "whenToUse": "Apply when progress is slow or when you want to accelerate existing processes. Use to identify people, tools, or events that could speed up your goals. Essential for innovation and organizational change. Look for reusable catalysts that can help repeatedly.",
+    "examples": [
+      "Creativity & Innovation: Using mentors or advisors to accelerate learning and avoid common mistakes",
+      "Strategic Thinking: Identifying key influencers who can accelerate adoption of new initiatives",
+      "Productivity & Focus: Using tools or systems that speed up repetitive tasks without requiring ongoing effort"
+    ],
+    "quote": "Catalysts make things happen faster. - Chemistry principle",
+    "relatedModels": [
+      "velocity",
+      "leverage"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "alloying",
+    "name": "Alloying",
+    "oneLiner": "Combining elements creates materials stronger than individual components",
+    "category": "Chemistry",
+    "domains": [
+      "Chemistry"
+    ],
+    "useCases": [
+      "Creativity & Innovation",
+      "Strategic Thinking",
+      "Collaboration"
+    ],
+    "definition": "Alloying mixes different metals to create materials with superior properties to any single component. Similarly, combining different skills, perspectives, or approaches can create solutions more powerful than any individual element. The whole becomes greater than the sum of its parts.",
+    "summary": "The power of combination - whether in materials, teams, or ideas - often creates breakthrough results. Different elements complement each other's strengths while compensating for individual weaknesses. The key is finding the right combinations and proportions to create optimal results.",
+    "whenToUse": "Apply when building teams, developing solutions, or creating new approaches. Use to combine different skills, perspectives, or technologies. Essential for innovation and collaborative problem-solving. Experiment with different combinations to find optimal mixes.",
+    "examples": [
+      "Creativity & Innovation: Combining technology with design thinking to create user-friendly products",
+      "Strategic Thinking: Building teams with complementary skills rather than similar capabilities",
+      "Collaboration: Merging different departmental perspectives to solve complex business problems"
+    ],
+    "quote": "The whole is greater than the sum of its parts. - Aristotle",
+    "relatedModels": [
+      "catalysts"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "natural-selection-and-extinction",
+    "name": "Natural Selection and Extinction",
+    "oneLiner": "Environment selects which traits survive and thrive",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Business & Career"
+    ],
+    "definition": "Natural selection is the process by which environmental pressures determine which traits are passed on to future generations. Organisms with advantageous traits are more likely to survive and reproduce. This principle applies to businesses, ideas, and strategies in competitive environments.",
+    "summary": "Success isn't just about being good - it's about being better adapted to your specific environment than alternatives. What works in one environment may fail in another. The key is understanding your environment and developing traits that give you advantages in that specific context rather than trying to be generally superior.",
+    "whenToUse": "Apply when evaluating strategies, business models, or approaches. Use to understand competitive dynamics and identify sustainable advantages. Essential for business strategy and career development. Focus on environmental fit rather than abstract excellence.",
+    "examples": [
+      "Strategic Thinking: Adapting business strategies to specific market conditions rather than copying successful companies from different markets",
+      "Decision Making: Choosing approaches that fit your specific circumstances and resources",
+      "Business & Career: Developing skills that are valued in your particular industry and role"
+    ],
+    "quote": "It is not the strongest that survives, but the most adaptable to change. - Charles Darwin",
+    "relatedModels": [
+      "adaptation-rate-and-the-red-queen-effect"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "adaptation-rate-and-the-red-queen-effect",
+    "name": "Adaptation Rate and the Red Queen Effect",
+    "oneLiner": "You must keep evolving just to stay in the same place in a competitive environment",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Creativity & Innovation"
+    ],
+    "definition": "The Red Queen Effect describes the evolutionary arms race where organisms must continuously adapt not just for advantage but to maintain their current fitness relative to others who are also evolving. Adaptation rate determines how quickly an organism can respond to these pressures.",
+    "summary": "This model teaches us that in competitive environments, standing still means falling behind. Because all competitors are constantly improving, you need continuous adaptation just to maintain your current position. The faster your adaptation rate compared to competitors, the better your survival chances. It's not about absolute progress but relative progress.",
+    "whenToUse": "Apply when facing competitive markets, rapidly changing industries, or any environment where others are also improving. Use to understand why continuous learning and innovation are essential. Essential for business strategy and personal development in dynamic fields.",
+    "examples": [
+      "Strategic Thinking: Technology companies must continuously innovate to avoid being displaced by competitors",
+      "Business & Career: Professionals must constantly update skills as industries evolve",
+      "Creativity & Innovation: Software platforms adding features just to keep up with competitors"
+    ],
+    "quote": "It takes all the running you can do, to keep in the same place. - Lewis Carroll (Red Queen)",
+    "relatedModels": [
+      "catalysts"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "competition",
+    "name": "Competition",
+    "oneLiner": "Competition for limited resources drives innovation, efficiency, and survival",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Decision Making"
+    ],
+    "definition": "Competition is the rivalry among organisms or entities for limited resources, territory, mates, or market share. It's a fundamental force that drives natural selection in biology and market dynamics in business, pushing entities to improve or risk extinction.",
+    "summary": "Competition is both destructive and creative. While it can eliminate the weak, it also drives innovation and efficiency improvements. Understanding competition helps you recognize when to compete directly, when to find uncontested space, and how competitive pressure shapes behavior and outcomes.",
+    "whenToUse": "Apply when analyzing market dynamics, developing competitive strategy, or understanding ecosystem health. Use to predict how competitive pressure will drive innovation and change. Essential for business strategy and understanding biological or economic systems.",
+    "examples": [
+      "Strategic Thinking: Companies competing for market share drives product innovation and cost reduction",
+      "Business & Career: Job market competition pushes candidates to develop better skills",
+      "Decision Making: Understanding that scarce resources intensify competition helps in resource allocation"
+    ],
+    "quote": "Competition is the spice of sports; but if you make spice the whole meal, you'll be sick. - George Leonard",
+    "relatedModels": [
+      "natural-selection-and-extinction",
+      "game-theory"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "ecosystem",
+    "name": "Ecosystem",
+    "oneLiner": "Everything is interconnected in complex webs of mutual dependence",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Systems Thinking",
+      "Strategic Thinking",
+      "Decision Making"
+    ],
+    "definition": "Ecosystems are networks of interconnected organisms and their environment, each playing a role in the system's overall health. Changes in one part affect the entire system, often in unpredictable ways. Ecosystems demonstrate that individual success is tied to overall system health.",
+    "summary": "Understanding ecosystems helps you see the broader context and interconnections in any situation. You're not operating in isolation but as part of larger systems. Success comes from understanding and working with these systems rather than against them. Small changes can have large effects due to interconnections.",
+    "whenToUse": "Apply when making decisions that affect multiple stakeholders or systems. Use to understand indirect effects and unintended consequences. Essential for leadership and strategic planning. Consider the whole system, not just immediate effects.",
+    "examples": [
+      "Systems Thinking: Understanding how business decisions affect all stakeholders, not just shareholders",
+      "Strategic Thinking: Recognizing that industry success depends on overall ecosystem health",
+      "Decision Making: Considering long-term systemic effects rather than just immediate benefits"
+    ],
+    "quote": "Everything is connected to everything else. - Ecosystem principle",
+    "relatedModels": [
+      "self-preservation"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "niches",
+    "name": "Niches",
+    "oneLiner": "Finding your optimal position within a larger ecosystem",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Specialization"
+    ],
+    "definition": "A niche is the role an organism plays in its ecosystem - its unique position and function. Specialists occupy narrow niches with less competition but greater vulnerability to change. Generalists occupy broader niches with more competition but greater adaptability. Both strategies can be successful.",
+    "summary": "Success often comes from finding the right niche - a space where you can thrive with minimal direct competition. This might mean specializing deeply in a narrow area or maintaining broad capabilities. The key is understanding whether your environment favors specialists or generalists and positioning yourself accordingly.",
+    "whenToUse": "Apply when choosing career paths, business strategies, or positioning. Use to identify underserved markets or areas where you can develop sustainable advantages. Essential for competitive strategy and personal development. Match your approach to your environment.",
+    "examples": [
+      "Strategic Thinking: Identifying market segments where competition is lower but demand exists",
+      "Business & Career: Developing specialized expertise in emerging fields",
+      "Specialization: Choosing between deep expertise and broad competence based on market conditions"
+    ],
+    "quote": "There are riches in niches. - Business principle",
+    "relatedModels": [
+      "replication"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "self-preservation",
+    "name": "Self-Preservation",
+    "oneLiner": "All organisms prioritize survival above all other goals",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Risk Management"
+    ],
+    "definition": "Self-preservation is the fundamental drive that shapes all behavior in living systems. Before any organism can reproduce, grow, or thrive, it must first survive. This creates predictable patterns in how individuals and organizations respond to threats and allocate resources.",
+    "summary": "Understanding self-preservation helps predict behavior in yourself and others, especially under stress or threat. When survival is at stake, other considerations become secondary. This applies to individuals, organizations, and social groups. Recognizing when self-preservation mode is activated helps you respond appropriately.",
+    "whenToUse": "Apply when understanding behavior under stress or threat. Use to predict how people and organizations will respond to existential challenges. Essential for crisis management and negotiation. Consider survival needs before other motivations.",
+    "examples": [
+      "Strategic Thinking: Understanding how companies prioritize cash flow over growth during economic uncertainty",
+      "Decision Making: Recognizing when fear-based thinking is driving choices rather than strategic thinking",
+      "Risk Management: Anticipating how teams will react when their jobs or projects are threatened"
+    ],
+    "quote": "Survival first, everything else second. - Biological imperative",
+    "relatedModels": [
+      "cooperation"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "replication",
+    "name": "Replication",
+    "oneLiner": "Successful patterns copy themselves and spread",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Learning & Knowledge",
+      "Strategic Thinking",
+      "Business & Career"
+    ],
+    "definition": "Replication is the process by which successful traits, behaviors, or systems reproduce and spread. In biology, genetic information replicates. In human systems, successful ideas, practices, and business models replicate when they provide advantages.",
+    "summary": "Don't always try to reinvent everything from scratch. Some of the fastest progress comes from replicating what already works, then making improvements. Good replication requires understanding not just what to copy, but why it works, so you can adapt it to your context while preserving essential elements.",
+    "whenToUse": "Apply when starting new projects or entering new fields. Use to learn from successful examples rather than starting from zero. Essential for scaling operations and spreading best practices. Focus on replicating underlying principles, not just surface features.",
+    "examples": [
+      "Learning & Knowledge: Learning from successful people by understanding and replicating their core practices",
+      "Strategic Thinking: Adapting successful business models to new markets or contexts",
+      "Business & Career: Building on proven frameworks rather than creating everything from scratch"
+    ],
+    "quote": "Good artists copy, great artists steal. - Pablo Picasso",
+    "relatedModels": [
+      "relativity",
+      "thermodynamics"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "cooperation",
+    "name": "Cooperation",
+    "oneLiner": "Working together creates advantages greater than individual efforts",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Collaboration",
+      "Strategic Thinking",
+      "Communication & Influence"
+    ],
+    "definition": "Cooperation occurs when different parties work together for mutual benefit. In biology, symbiotic relationships allow species to access resources and capabilities they couldn't achieve alone. In human systems, cooperation enables achievements impossible for individuals.",
+    "summary": "The most successful individuals and organizations excel at cooperation. This doesn't mean avoiding competition, but rather finding ways to create win-win situations where all parties benefit. Good cooperation requires understanding what each party brings to the relationship and how to structure interactions for mutual gain.",
+    "whenToUse": "Apply when building partnerships, teams, or alliances. Use to create value through collaboration rather than competition. Essential for leadership and relationship building. Look for ways to make cooperation beneficial for all parties.",
+    "examples": [
+      "Collaboration: Building cross-functional teams where different expertise combines to solve complex problems",
+      "Strategic Thinking: Creating partnerships where each organization contributes unique capabilities",
+      "Communication & Influence: Structuring negotiations as collaborative problem-solving rather than zero-sum competition"
+    ],
+    "quote": "Alone we can do so little; together we can do so much. - Helen Keller",
+    "relatedModels": [
+      "dunbar's-number"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "dunbar's-number",
+    "name": "Dunbar's Number",
+    "oneLiner": "Humans can maintain about 150 stable relationships",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Communication & Influence",
+      "Social Dynamics",
+      "Productivity & Focus"
+    ],
+    "definition": "Dunbar's Number suggests that humans can maintain approximately 150 stable social relationships due to cognitive limitations. This affects how we structure organizations, communities, and social networks. Beyond this number, relationships become less stable and require formal systems to maintain.",
+    "summary": "Understanding social limitations helps you manage relationships and organizations more effectively. You can't maintain deep relationships with unlimited people, so focus on quality over quantity. Large groups require different management approaches than small ones due to these cognitive constraints.",
+    "whenToUse": "Apply when building teams, networks, or communities. Use to understand optimal group sizes for different purposes. Essential for organizational design and relationship management. Consider how group size affects communication and cohesion.",
+    "examples": [
+      "Communication & Influence: Focusing networking efforts on developing deeper relationships with fewer people",
+      "Social Dynamics: Understanding why large organizations need formal structures and processes",
+      "Productivity & Focus: Limiting social commitments to maintain meaningful relationships"
+    ],
+    "quote": "Dunbar's number is about 150. - Robin Dunbar",
+    "relatedModels": [
+      "cooperation"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "hierarchical-organization",
+    "name": "Hierarchical Organization",
+    "oneLiner": "Natural systems organize in ranked levels for efficient coordination and resource allocation",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Communication & Influence",
+      "Productivity & Focus"
+    ],
+    "definition": "Hierarchical Organization is the arrangement of individuals or components in ranked levels of authority, complexity, or importance. This structure facilitates coordination, decision-making, and resource distribution while creating clear chains of command and responsibility.",
+    "summary": "Hierarchies emerge naturally in biological and social systems because they solve coordination problems efficiently. They enable specialization, clear decision-making, and efficient resource flow. However, they can also create rigidity, power imbalances, and communication barriers. Understanding hierarchy helps navigate organizational dynamics.",
+    "whenToUse": "Use when designing organizations, understanding power structures, or optimizing decision-making processes. Apply to recognize formal and informal hierarchies that affect outcomes. Essential for leadership and organizational effectiveness.",
+    "examples": [
+      "Strategic Thinking: Corporate structures from CEO to employees enable coordinated decision-making",
+      "Communication & Influence: Understanding organizational hierarchy improves message targeting and influence strategies",
+      "Productivity & Focus: Clear hierarchical roles reduce confusion and improve task coordination"
+    ],
+    "quote": "A place for everything, and everything in its place. - Benjamin Franklin",
+    "relatedModels": [
+      "game-theory",
+      "feedback-loops"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "incentives",
+    "name": "Incentives",
+    "oneLiner": "People and organisms respond predictably to rewards and punishments",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Behavior & Habits",
+      "Communication & Influence"
+    ],
+    "definition": "Incentives are external or internal factors that motivate behavior by attaching benefits (rewards) or costs (punishments) to specific actions. They shape decision-making by making certain choices more attractive than others, driving both individual and collective behavior.",
+    "summary": "Incentives are among the most powerful forces shaping behavior. Well-designed incentives align individual actions with desired outcomes, while poorly designed ones create unintended consequences. Understanding incentives helps predict behavior and design systems that encourage beneficial actions.",
+    "whenToUse": "Apply when designing policies, managing teams, motivating behavior change, or predicting responses to changes. Use to align individual and organizational goals. Essential for management, policy design, and understanding human behavior.",
+    "examples": [
+      "Strategic Thinking: Sales commissions incentivize revenue generation",
+      "Behavior & Habits: Reward programs encourage customer loyalty and repeat purchases",
+      "Communication & Influence: Performance bonuses motivate employees to exceed targets"
+    ],
+    "quote": "Show me the incentive and I will show you the outcome. - Charlie Munger",
+    "relatedModels": [
+      "game-theory",
+      "feedback-loops"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "tendency-to-minimize-energy-output",
+    "name": "Tendency to Minimize Energy Output",
+    "oneLiner": "All systems naturally favor paths that require the least energy or effort",
+    "category": "Biology",
+    "domains": [
+      "Biology"
+    ],
+    "useCases": [
+      "Productivity & Focus",
+      "Behavior & Habits",
+      "Strategic Thinking"
+    ],
+    "definition": "The Tendency to Minimize Energy Output describes how living organisms and systems naturally evolve toward configurations and behaviors that reduce energy expenditure while maintaining functionality. This conservation principle drives efficiency but can also lead to complacency and suboptimal outcomes.",
+    "summary": "Energy is a limited resource, so systems that waste energy are at a disadvantage. This tendency explains why we form habits, take shortcuts, and resist change. While energy conservation is generally beneficial for survival, it can also prevent growth and adaptation when effort is needed for improvement.",
+    "whenToUse": "Apply when understanding resistance to change, designing habit formation strategies, or optimizing systems for efficiency. Use to recognize when energy conservation helps versus when extra effort is needed. Essential for personal productivity and organizational change management.",
+    "examples": [
+      "Productivity & Focus: Brain creates mental shortcuts (heuristics) to reduce cognitive energy expenditure",
+      "Behavior & Habits: People develop routines that minimize decision-making energy",
+      "Strategic Thinking: Companies often resist innovation due to the energy cost of change, even when beneficial"
+    ],
+    "quote": "Nature is thrifty in all her operations. - Newton's laws of motion",
+    "relatedModels": [
+      "efficiency",
+      "optimization"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "inversion",
+    "name": "Inversion",
+    "oneLiner": "Instead of asking how to succeed, ask what would guarantee failure, and avoid that",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Problem Solving",
+      "Decision Making",
+      "Strategic Thinking"
+    ],
+    "definition": "Inversion is a thinking technique where you approach problems by considering their opposite. Rather than only thinking forward “How do I achieve X?” you also ask, “How could I fail at X?” or “What would guarantee the opposite of what I want?”\n It’s based on the idea that avoiding stupidity is often easier than seeking brilliance.",
+    "summary": "This model originates from mathematical problem-solving and was popularized by thinkers like Carl Jacobi and Charlie Munger. Inversion helps uncover hidden assumptions, blind spots, and risks by flipping a problem on its head.\n \n By combining forward and backward thinking, you increase the chances of seeing reality from multiple angles — and avoid mistakes that otherwise seem invisible.",
+    "whenToUse": "Use Inversion when facing complex decisions or planning for important outcomes. Think of what you want to avoid — for example, “How could this project fail?”, or “What habits would guarantee poor health?”. Once listed, reverse them to guide action. It sharpens your clarity and preps you for obstacles in advance.",
+    "examples": [
+      "Problem Solving: Instead of \"How do I build a successful startup?\" ask \"What would guarantee my startup fails?\" and avoid those pitfalls",
+      "Decision Making: Rather than only planning for investment success, consider what would cause total loss and protect against it",
+      "Strategic Thinking: When entering new markets, study what causes businesses to fail there rather than just copying successful strategies"
+    ],
+    "quote": "Charlie Munger (Investor)\n All I want to know is where I’m going to die, so I never go there. He used inversion to avoid investment disasters.",
+    "relatedModels": [
+      "circle-of-competence",
+      "second-order-thinking",
+      "first-principles-thinking"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "nash-equilibrium",
+    "name": "Nash Equilibrium",
+    "oneLiner": "A stable state where no player can improve their outcome by unilaterally changing their strategy",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Problem Solving"
+    ],
+    "definition": "Nash Equilibrium is a concept from game theory where each participant's strategy is optimal given the strategies of all other participants. It represents a stable state where no player has an incentive to deviate from their current strategy, assuming all others maintain theirs.",
+    "summary": "Nash Equilibrium reveals the natural resting points in competitive situations. It's where rational actors settle when everyone has chosen their best response to others' strategies. Understanding this helps predict outcomes in competitive environments and explains why certain situations persist even when better collective outcomes exist.",
+    "whenToUse": "Apply when analyzing competitive situations, negotiations, or market dynamics where multiple parties' decisions affect each other. Use to identify stable outcomes and predict where competitive situations will settle. Essential for strategic planning and understanding why certain patterns persist.",
+    "examples": [
+      "Strategic Thinking: Competitors settling into stable pricing strategies where no one benefits from price changes",
+      "Decision Making: International trade agreements where no country benefits from unilateral changes",
+      "Problem Solving: Team dynamics where members have found optimal roles given others' behaviors"
+    ],
+    "quote": "The Nash equilibrium is a solution concept of a non-cooperative game involving two or more players in which each player is assumed to know the equilibrium strategies of the other players. - John Nash",
+    "relatedModels": [
+      "game-theory",
+      "prisoner's-dilemma"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "prisoner's-dilemma",
+    "name": "Prisoner's Dilemma",
+    "oneLiner": "Two parties acting in their own self-interest produce a worse outcome than if they had cooperated",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Communication & Influence"
+    ],
+    "definition": "The Prisoner's Dilemma is a game theory scenario where two rational individuals might not cooperate even when it appears that cooperating would be in their mutual best interest. It demonstrates how individual rationality can lead to collectively irrational outcomes.",
+    "summary": "This model reveals the fundamental tension between self-interest and collective benefit. It explains why cooperation is difficult to achieve and maintain, even when everyone would benefit. The key insight is that without trust, communication, or enforcement mechanisms, rational actors often choose defection over cooperation, leading to suboptimal outcomes for all.",
+    "whenToUse": "Use when analyzing situations involving trust, cooperation, and competition. Apply to understand why mutually beneficial agreements are hard to maintain without proper incentives or enforcement. Essential for negotiations, partnership design, and understanding social dilemmas.",
+    "examples": [
+      "Strategic Thinking: Business partnerships where mutual cooperation benefits both parties but temptation exists to defect",
+      "Communication & Influence: International climate agreements where countries benefit from others reducing emissions while continuing to pollute themselves",
+      "Decision Making: Arms races where mutual disarmament benefits all but unilateral disarmament creates vulnerability"
+    ],
+    "quote": "The prisoner's dilemma is a fundamental problem in game theory that demonstrates why two rational individuals might not cooperate, even if it appears that it is in their best interest to do so. - Game Theory Principle",
+    "relatedModels": [
+      "game-theory",
+      "nash-equilibrium"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "opportunity-cost",
+    "name": "Opportunity Cost",
+    "oneLiner": "Every choice involves giving up the next best alternative the true cost of any decision",
+    "category": "Mathematics",
+    "domains": [
+      "Mathematics"
+    ],
+    "useCases": [
+      "Decision Making",
+      "Strategic Thinking",
+      "Productivity & Focus"
+    ],
+    "definition": "Opportunity Cost is the value of the best alternative foregone when making a decision. It represents what you give up to get something else, making it the true economic cost of any choice. This principle applies to all decisions involving scarce resources like time, money, or attention.",
+    "summary": "Opportunity cost forces you to think beyond the direct costs of decisions to consider what you're sacrificing. It's not just about moneyâ€”time has opportunity cost, attention has opportunity cost, and even relationships have opportunity costs. Good decision-making requires weighing benefits against what you're giving up, not just what you're getting.",
+    "whenToUse": "Apply to all resource allocation decisions where alternatives exist. Use when prioritizing projects, allocating time, or making investment decisions. Essential for budgeting, strategic planning, and personal productivity. Always ask: \"What am I not doing by choosing this?\"",
+    "examples": [
+      "Decision Making: Choosing to attend graduate school means forgoing years of potential earnings and work experience",
+      "Strategic Thinking: Investing company resources in one product line means not investing in another potentially profitable area",
+      "Productivity & Focus: Spending time on social media means not spending that time on learning, relationships, or productive work"
+    ],
+    "quote": "The real cost of something is what you give up to get it. - Economic Principle",
+    "relatedModels": [
+      "the-map-is-not-the-territory"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "homeostasis",
+    "name": "Homeostasis",
+    "oneLiner": "Systems naturally work to maintain stable internal conditions despite external changes",
+    "category": "Chemistry",
+    "domains": [
+      "Chemistry"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Behavior & Habits",
+      "Decision Making"
+    ],
+    "definition": "Homeostasis is the tendency of living systems to maintain internal stability and equilibrium by adjusting their processes in response to external changes. It's the self-regulating mechanism that keeps systems functioning within optimal ranges despite environmental fluctuations.",
+    "summary": "Homeostasis explains why systems resist change and return to baseline states. Whether in biology, psychology, or organizations, systems have natural set points they try to maintain. This can be beneficial for stability but challenging when you want to create lasting change. Understanding homeostasis helps you work with natural tendencies rather than against them.",
+    "whenToUse": "Use when trying to create lasting change in habits, organizations, or systems. Apply to understand why changes often fail and how to design interventions that account for homeostatic resistance. Essential for change management and understanding system dynamics.",
+    "examples": [
+      "Strategic Thinking: Organizations returning to old patterns after change initiatives unless new equilibrium points are established",
+      "Behavior & Habits: Body weight returning to set point after dieting without addressing underlying metabolic and behavioral patterns",
+      "Decision Making: Teams reverting to previous communication patterns after training unless new norms are reinforced"
+    ],
+    "quote": "The maintenance of internal equilibrium is a prerequisite for life. - Biological Principle",
+    "relatedModels": [
+      "inertia"
+    ],
+    "icon": "🧠"
+  },
+  {
+    "id": "economies-of-scale",
+    "name": "Economies of Scale",
+    "oneLiner": "Cost per unit decreases as production volume increases, creating competitive advantages through size",
+    "category": "Economics",
+    "domains": [
+      "Economics"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Business & Career",
+      "Productivity & Focus"
+    ],
+    "definition": "Economies of Scale occur when increasing the scale of production results in lower average costs per unit. This happens because fixed costs are spread over more units, bulk purchasing reduces input costs, and specialization increases efficiency. It's a fundamental driver of competitive advantage in many industries.",
+    "summary": "Size creates efficiency in ways that go beyond simple math. Large operations can justify specialized equipment, dedicated roles, bulk purchasing power, and process optimization that smaller operations cannot. However, economies of scale have limitsâ€”eventually systems become too large and complex, leading to diseconomies of scale.",
+    "whenToUse": "Apply when planning business growth, production scaling, or resource allocation. Use to understand competitive dynamics and identify opportunities for cost reduction through scale. Essential for strategic planning and operational efficiency. Consider both the benefits and limits of scale.",
+    "examples": [
+      "Strategic Thinking: Manufacturing companies reducing cost per unit by producing larger quantities, justifying expensive specialized equipment",
+      "Business & Career: Large consulting firms spreading training costs across many employees while small firms must train each person individually",
+      "Productivity & Focus: Batch processing similar tasks to reduce setup time and context switching costs"
+    ],
+    "quote": "Scale creates competitive advantage through cost reduction and operational efficiency. - Business Principle",
+    "relatedModels": [],
+    "icon": "🧠"
+  },
+  {
+    "id": "butterfly-effect",
+    "name": "Butterfly Effect",
+    "oneLiner": "Small changes in initial conditions can produce dramatically different outcomes in complex systems",
+    "category": "General",
+    "domains": [
+      "General"
+    ],
+    "useCases": [
+      "Strategic Thinking",
+      "Decision Making",
+      "Learning & Knowledge"
+    ],
+    "definition": "The Butterfly Effect describes how tiny differences in initial conditions can lead to vastly different outcomes in chaotic systems. Named after the idea that a butterfly flapping its wings in Brazil could theoretically cause a tornado in Texas, it highlights the sensitive dependence on initial conditions in complex systems.",
+    "summary": "The Butterfly Effect teaches us about the limits of prediction and the importance of initial conditions. In complex systems, small changes can cascade through the system, creating dramatically different outcomes. This makes long-term prediction extremely difficult and highlights how seemingly minor decisions or events can have major consequences over time.",
+    "whenToUse": "Use when dealing with complex systems where prediction is difficult. Apply to understand why small changes matter and why long-term planning must account for uncertainty. Essential for risk management and understanding why complex systems are inherently unpredictable.",
+    "examples": [
+      "Strategic Thinking: Small changes in market conditions or customer behavior leading to dramatically different business outcomes",
+      "Decision Making: Minor early decisions in career or relationships having major long-term consequences",
+      "Learning & Knowledge: Small differences in initial understanding leading to vastly different conclusions over time"
+    ],
+    "quote": "The flap of a butterfly's wings in Brazil can set off a tornado in Texas. - Chaos Theory",
+    "relatedModels": [
+      "second-order-thinking",
+      "probabilistic-thinking"
+    ],
+    "icon": "🧠"
+  }
+]

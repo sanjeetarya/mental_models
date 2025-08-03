@@ -30,11 +30,11 @@ export default function ModelPage({ params }: ModelPageProps) {
           <p className="text-2xl text-blue-300 mb-6">{model.oneLiner}</p>
           <div className="flex flex-wrap justify-center gap-2">
             <Badge className="bg-blue-600">{model.category}</Badge>
-            {model.domains.map((domain) => (
+            {/* {model.domains.map((domain) => (
               <Badge key={domain} variant="outline" className="border-gray-600 text-gray-400">
                 {domain}
               </Badge>
-            ))}
+            ))} */}
           </div>
         </div>
 
